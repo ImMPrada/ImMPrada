@@ -1,9 +1,8 @@
-name: Update GitHub Activity
+name: Update README
 
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -17,4 +16,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.MI_GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'Update README.md'
+          COMMIT_MSG: 'update activity on README'
+          MAX_LINES: 10
