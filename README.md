@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ## RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/ImMPrada/top_stock_picker/pull/2) in [ImMPrada/top_stock_picker](https://github.com/ImMPrada/top_stock_picker)
-2. 🎉 Merged PR [#1](https://github.com/ImMPrada/top_stock_picker/pull/1) in [ImMPrada/top_stock_picker](https://github.com/ImMPrada/top_stock_picker)
-3. 💪 Opened PR [#1](https://github.com/EmanueleGurini/emanuelegurinidotcom/pull/1) in [EmanueleGurini/emanuelegurinidotcom](https://github.com/EmanueleGurini/emanuelegurinidotcom)
-4. 💪 Opened PR [#1](https://github.com/ImMPrada/top_fibonacci/pull/1) in [ImMPrada/top_fibonacci](https://github.com/ImMPrada/top_fibonacci)
-5. 💪 Opened PR [#1](https://github.com/ImMPrada/top_bubble_sort/pull/1) in [ImMPrada/top_bubble_sort](https://github.com/ImMPrada/top_bubble_sort)
+1. 🎉 Merged PR [#2](https://github.com/ImMPrada/top_stock_picker/pull/2) in [ImMPrada/top_stock_picker](https://github.com/ImMPrada/top_stock_picker)
+2. 💪 Opened PR [#2](https://github.com/ImMPrada/top_stock_picker/pull/2) in [ImMPrada/top_stock_picker](https://github.com/ImMPrada/top_stock_picker)
+3. 🎉 Merged PR [#1](https://github.com/ImMPrada/top_stock_picker/pull/1) in [ImMPrada/top_stock_picker](https://github.com/ImMPrada/top_stock_picker)
+4. 💪 Opened PR [#1](https://github.com/EmanueleGurini/emanuelegurinidotcom/pull/1) in [EmanueleGurini/emanuelegurinidotcom](https://github.com/EmanueleGurini/emanuelegurinidotcom)
+5. 💪 Opened PR [#1](https://github.com/ImMPrada/top_fibonacci/pull/1) in [ImMPrada/top_fibonacci](https://github.com/ImMPrada/top_fibonacci)
 <!--END_SECTION:activity-->
