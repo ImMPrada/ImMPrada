@@ -1,8 +1,6 @@
 <img width="100%" alt="image" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif">
 
 
-### Hi there 👋
-
 <!--
 **ImMPrada/ImMPrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### RECENT ACTIVITY
+## RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2](https://github.com/ImMPrada/top_stock_picker/pull/2) in [ImMPrada/top_stock_picker](https://github.com/ImMPrada/top_stock_picker)
