@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 4. 🎉 Merged PR [#2](https://github.com/ImMPrada/top_stock_picker/pull/2) in [ImMPrada/top_stock_picker](https://github.com/ImMPrada/top_stock_picker)
 5. 💪 Opened PR [#2](https://github.com/ImMPrada/top_stock_picker/pull/2) in [ImMPrada/top_stock_picker](https://github.com/ImMPrada/top_stock_picker)
 <!--END_SECTION:activity-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
