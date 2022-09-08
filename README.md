@@ -27,22 +27,58 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-131-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-173-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,158 Contributions in the Year 2022
+> 🏆 1,159 Contributions in the Year 2022
  > 
 > 📦 9.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 23 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    162 commits    ██████░░░░░░░░░░░░░░░░░░░   26.51% 
+🌆 Daytime    192 commits    ███████░░░░░░░░░░░░░░░░░░   31.42% 
+🌃 Evening    221 commits    █████████░░░░░░░░░░░░░░░░   36.17% 
+🌙 Night      36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.89%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       127 commits    █████░░░░░░░░░░░░░░░░░░░░   20.79% 
+Tuesday      127 commits    █████░░░░░░░░░░░░░░░░░░░░   20.79% 
+Wednesday    111 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.17% 
+Thursday     59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.66% 
+Friday       55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.0% 
+Saturday     47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Sunday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.91%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Bogota
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Ruby** 
 
 ```text
@@ -55,5 +91,10 @@ HTML                     1 repo              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 08/09/2022 04:51:44 UTC
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ImMPrada/ImMPrada/main/charts/bar_graph.png) 
+
+
+ Last Updated on 08/09/2022 05:59:31 UTC
 <!--END_SECTION:waka-->
