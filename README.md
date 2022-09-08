@@ -1,4 +1,4 @@
-<img width="100%" alt="image" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif">
+<img width="100%" alt="image" styles="border: 1px solid red;"  src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif">
 
 
 <!--
