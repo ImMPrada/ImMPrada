@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 ### some stats:
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-182-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-198-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,162 Contributions in the Year 2022
+> 🏆 1,172 Contributions in the Year 2022
  > 
 > 📦 9.1 kB Used in GitHub's Storage 
  > 
@@ -100,5 +100,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ImMPrada/ImMPrada/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/09/2022 15:32:35 UTC
+ Last Updated on 08/09/2022 15:55:48 UTC
 <!--END_SECTION:waka-->
