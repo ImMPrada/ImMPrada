@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 5. ❌ Closed PR [#1](https://github.com/EmanueleGurini/emanuelegurinidotcom/pull/1) in [EmanueleGurini/emanuelegurinidotcom](https://github.com/EmanueleGurini/emanuelegurinidotcom)
 <!--END_SECTION:activity-->
 
+
+## EXPERIMENTAL ZONE:
+### some stats:
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-174-blue)
 
@@ -93,7 +97,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/ImMPrada/ImMPrada/main/charts/bar_graph.png) 
+[Chart not found](https://raw.githubusercontent.com/ImMPrada/ImMPrada/main/charts/bar_graph.png) 
 
 
  Last Updated on 08/09/2022 12:44:41 UTC
