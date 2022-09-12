@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ## RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ImMPrada/top_caesar_cipher/pull/2) in [ImMPrada/top_caesar_cipher](https://github.com/ImMPrada/top_caesar_cipher)
-2. 💪 Opened PR [#2](https://github.com/ImMPrada/top_caesar_cipher/pull/2) in [ImMPrada/top_caesar_cipher](https://github.com/ImMPrada/top_caesar_cipher)
-3. 🎉 Merged PR [#1](https://github.com/ImMPrada/top_caesar_cipher/pull/1) in [ImMPrada/top_caesar_cipher](https://github.com/ImMPrada/top_caesar_cipher)
-4. 💪 Opened PR [#2](https://github.com/ImMPrada/top_sub_strings/pull/2) in [ImMPrada/top_sub_strings](https://github.com/ImMPrada/top_sub_strings)
+1. 💪 Opened PR [#2](https://github.com/ImMPrada/top_recursion/pull/2) in [ImMPrada/top_recursion](https://github.com/ImMPrada/top_recursion)
+2. 🎉 Merged PR [#1](https://github.com/ImMPrada/top_recursion/pull/1) in [ImMPrada/top_recursion](https://github.com/ImMPrada/top_recursion)
+3. 💪 Opened PR [#1](https://github.com/ImMPrada/top_recursion/pull/1) in [ImMPrada/top_recursion](https://github.com/ImMPrada/top_recursion)
+4. 🎉 Merged PR [#2](https://github.com/ImMPrada/top_caesar_cipher/pull/2) in [ImMPrada/top_caesar_cipher](https://github.com/ImMPrada/top_caesar_cipher)
 5. ❌ Reopened PR [#1](https://github.com/EmanueleGurini/emanuelegurinidotcom/pull/1) in [EmanueleGurini/emanuelegurinidotcom](https://github.com/EmanueleGurini/emanuelegurinidotcom)
 <!--END_SECTION:activity-->
 
