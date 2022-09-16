@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ## RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/ImMPrada/data_structures/pull/2) in [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures)
-2. 💪 Opened PR [#3](https://github.com/ImMPrada/top_recursion/pull/3) in [ImMPrada/top_recursion](https://github.com/ImMPrada/top_recursion)
+1. 💪 Opened PR [#3](https://github.com/ImMPrada/data_structures/pull/3) in [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures)
+2. 💪 Opened PR [#2](https://github.com/ImMPrada/data_structures/pull/2) in [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures)
 3. 💪 Opened PR [#2](https://github.com/ImMPrada/top_recursion/pull/2) in [ImMPrada/top_recursion](https://github.com/ImMPrada/top_recursion)
 4. 🎉 Merged PR [#1](https://github.com/ImMPrada/top_recursion/pull/1) in [ImMPrada/top_recursion](https://github.com/ImMPrada/top_recursion)
 5. 💪 Opened PR [#1](https://github.com/ImMPrada/top_recursion/pull/1) in [ImMPrada/top_recursion](https://github.com/ImMPrada/top_recursion)
