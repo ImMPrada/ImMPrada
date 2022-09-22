@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### some stats:
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68%20Thousand%20lines%20of%20code-blue)
 
@@ -77,13 +77,14 @@ Sunday       89 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Ruby                     20 hrs 9 mins       ████████████████████████░   98.87% 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99% 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+Ruby                     20 hrs 54 mins      ████████████████████████░   98.96% 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02% 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  20 hrs 23 mins      █████████████████████████   100.0%
+VS Code                  21 hrs 8 mins       █████████████████████████   100.0%
 
 ```
 
@@ -104,5 +105,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ImMPrada/ImMPrada/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/09/2022 06:02:54 UTC
+ Last Updated on 22/09/2022 07:00:35 UTC
 <!--END_SECTION:waka-->
