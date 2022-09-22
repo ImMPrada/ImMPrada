@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### some stats:
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68%20Thousand%20lines%20of%20code-blue)
 
@@ -105,5 +105,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ImMPrada/ImMPrada/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/09/2022 18:52:22 UTC
+ Last Updated on 22/09/2022 19:17:34 UTC
 <!--END_SECTION:waka-->
