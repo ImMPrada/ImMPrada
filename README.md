@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 > 🏆 1,383 Contributions in the Year 2022
  > 
-> 📦 9.7 kB Used in GitHub's Storage 
+> 📦 9.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,5 +104,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ImMPrada/ImMPrada/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/09/2022 23:23:36 UTC
+ Last Updated on 26/09/2022 23:53:04 UTC
 <!--END_SECTION:waka-->
