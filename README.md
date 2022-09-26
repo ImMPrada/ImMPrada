@@ -44,7 +44,7 @@ Here are some ideas to get you started:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 29 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -104,5 +104,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ImMPrada/ImMPrada/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/09/2022 21:49:05 UTC
+ Last Updated on 26/09/2022 22:03:42 UTC
 <!--END_SECTION:waka-->
