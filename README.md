@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ImMPrada/data_structures/pull/4) in [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures)
+1. 💪 Opened PR [#1](https://github.com/andreslopezlu/card_details/pull/1) in [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details)
 2. 🎉 Merged PR [#3](https://github.com/ImMPrada/data_structures/pull/3) in [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures)
 3. 🎉 Merged PR [#1](https://github.com/ImMPrada/data_structures/pull/1) in [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures)
 4. 💪 Opened PR [#3](https://github.com/ImMPrada/data_structures/pull/3) in [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures)
