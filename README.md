@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ## RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ImMPrada/top_event_manager/pull/1) in [ImMPrada/top_event_manager](https://github.com/ImMPrada/top_event_manager)
-2. 💪 Opened PR [#1](https://github.com/ImMPrada/top_event_manager/pull/1) in [ImMPrada/top_event_manager](https://github.com/ImMPrada/top_event_manager)
-3. 💪 Opened PR [#1](https://github.com/andreslopezlu/card_details/pull/1) in [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details)
-4. 💪 Opened PR [#3](https://github.com/ImMPrada/data_structures/pull/3) in [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures)
+1. 💪 Opened PR [#2](https://github.com/ImMPrada/top_event_manager/pull/2) in [ImMPrada/top_event_manager](https://github.com/ImMPrada/top_event_manager)
+2. 🎉 Merged PR [#1](https://github.com/ImMPrada/top_event_manager/pull/1) in [ImMPrada/top_event_manager](https://github.com/ImMPrada/top_event_manager)
+3. 💪 Opened PR [#1](https://github.com/ImMPrada/top_event_manager/pull/1) in [ImMPrada/top_event_manager](https://github.com/ImMPrada/top_event_manager)
+4. 💪 Opened PR [#1](https://github.com/andreslopezlu/card_details/pull/1) in [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details)
 5. 💪 Opened PR [#2](https://github.com/ImMPrada/data_structures/pull/2) in [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures)
 6. 🎉 Merged PR [#2](https://github.com/ImMPrada/top_caesar_cipher/pull/2) in [ImMPrada/top_caesar_cipher](https://github.com/ImMPrada/top_caesar_cipher)
 <!--END_SECTION:activity-->
