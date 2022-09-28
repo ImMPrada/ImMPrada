@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-'<!--START_SECTION:activity-->
+<img width="100%" alt="image" styles="border: 1px solid red;"  src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif">
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
