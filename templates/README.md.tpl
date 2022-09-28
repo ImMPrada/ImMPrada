@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--START_SECTION:activity-->
+'<!--START_SECTION:activity-->
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
