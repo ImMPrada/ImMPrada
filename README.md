@@ -2,7 +2,6 @@
 
 
 
-
 #### 👷 Check out what I'm currently working on
 
 - [ImMPrada/top_event_manager](https://github.com/ImMPrada/top_event_manager) -  (today)
