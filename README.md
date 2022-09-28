@@ -50,7 +50,6 @@ Experimental zone:
 - [Create stack](https://github.com/ImMPrada/data_structures/pull/3) on [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) (1 week ago)
 - [Create Queue class](https://github.com/ImMPrada/data_structures/pull/2) on [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) (1 week ago)
 - [Create linked list](https://github.com/ImMPrada/data_structures/pull/1) on [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) (2 weeks ago)
-- [Solve fibonacci](https://github.com/ImMPrada/top_recursion/pull/3) on [ImMPrada/top_recursion](https://github.com/ImMPrada/top_recursion) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
