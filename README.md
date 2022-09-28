@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+Experimental zone:
+
 <img width="100%" alt="image" styles="border: 1px solid red;"  src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=immprada&theme=react&hide_border=true&border_radius=10&date_format=n%2Fj%5B%2FY%5D&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=immprada)](https://git.io/streak-stats)
 
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
