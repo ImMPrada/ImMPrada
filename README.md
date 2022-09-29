@@ -34,7 +34,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
-- [nothin to do](https://github.com/ImMPrada/data_structures/pull/6) on [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) (today)
+- [nothing to do](https://github.com/ImMPrada/data_structures/pull/6) on [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) (today)
 - [hot fix for CV number at .card-back](https://github.com/andreslopezlu/card_details/pull/3) on [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) (today)
 - [Add simplecov](https://github.com/ImMPrada/data_structures/pull/5) on [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) (today)
 - [Form letters](https://github.com/ImMPrada/top_event_manager/pull/3) on [ImMPrada/top_event_manager](https://github.com/ImMPrada/top_event_manager) (1 day ago)
