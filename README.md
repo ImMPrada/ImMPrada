@@ -34,6 +34,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Add simplecov](https://github.com/ImMPrada/data_structures/pull/5) on [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) (today)
 - [Form letters](https://github.com/ImMPrada/top_event_manager/pull/3) on [ImMPrada/top_event_manager](https://github.com/ImMPrada/top_event_manager) (1 day ago)
 - [Google api for representations by zipcode](https://github.com/ImMPrada/top_event_manager/pull/2) on [ImMPrada/top_event_manager](https://github.com/ImMPrada/top_event_manager) (2 days ago)
 - [Solve first steps](https://github.com/ImMPrada/top_event_manager/pull/1) on [ImMPrada/top_event_manager](https://github.com/ImMPrada/top_event_manager) (2 days ago)
@@ -42,7 +43,6 @@ Experimental zone:
 - [Create stack min](https://github.com/ImMPrada/data_structures/pull/4) on [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) (1 week ago)
 - [Create stack](https://github.com/ImMPrada/data_structures/pull/3) on [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) (1 week ago)
 - [Create Queue class](https://github.com/ImMPrada/data_structures/pull/2) on [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) (1 week ago)
-- [Create linked list](https://github.com/ImMPrada/data_structures/pull/1) on [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
