@@ -17,7 +17,7 @@ Experimental zone:
 
 #### 🌱 My latest projects
 {{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) - {{.Language}} - {{.Description}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔨 My recent Pull Requests
