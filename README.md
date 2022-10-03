@@ -34,6 +34,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Round funcionality](https://github.com/ImMPrada/top_hangman/pull/2) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (today)
 - [Initialize game](https://github.com/ImMPrada/top_hangman/pull/1) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (today)
 - [Create form](https://github.com/andreslopezlu/card_details/pull/4) on [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) (3 days ago)
 - [Containers](https://github.com/ImMPrada/frontendmentor_preview_card_component/pull/1) on [ImMPrada/frontendmentor_preview_card_component](https://github.com/ImMPrada/frontendmentor_preview_card_component) (4 days ago)
@@ -42,7 +43,6 @@ Experimental zone:
 - [nothing to do](https://github.com/ImMPrada/data_structures/pull/6) on [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) (4 days ago)
 - [hot fix for CV number at .card-back](https://github.com/andreslopezlu/card_details/pull/3) on [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) (4 days ago)
 - [Add simplecov](https://github.com/ImMPrada/data_structures/pull/5) on [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) (4 days ago)
-- [Form letters](https://github.com/ImMPrada/top_event_manager/pull/3) on [ImMPrada/top_event_manager](https://github.com/ImMPrada/top_event_manager) (5 days ago)
 
 #### 📓 Gists I wrote
 
