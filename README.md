@@ -8,21 +8,21 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/frontendmentor_price_grid](https://github.com/ImMPrada/frontendmentor_price_grid) - a frontendmentor&#39;s challenge https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc (4 days ago)
+- [ImMPrada/frontendmentor_price_grid](https://github.com/ImMPrada/frontendmentor_price_grid) - a frontendmentor&#39;s challenge (1 day ago)
+- [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) -  (4 days ago)
 - [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) -  (4 days ago)
 - [ImMPrada/frontendmentor_preview_card_component](https://github.com/ImMPrada/frontendmentor_preview_card_component) - a frontendmentor&#39;s challenge https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa (4 days ago)
-- [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) -  (4 days ago)
 - [ImMPrada/top_event_manager](https://github.com/ImMPrada/top_event_manager) -  (5 days ago)
 - [ImMPrada/top_mastermind](https://github.com/ImMPrada/top_mastermind) -  (5 days ago)
 - [ImMPrada/ruby_exercises](https://github.com/ImMPrada/ruby_exercises) - top: the odin&#39;s project (1 week ago)
 - [ImMPrada/top_recursion](https://github.com/ImMPrada/top_recursion) -  (3 weeks ago)
-- [ImMPrada/top_caesar_cipher](https://github.com/ImMPrada/top_caesar_cipher) -  (3 weeks ago)
 - [ImMPrada/top_DC](https://github.com/ImMPrada/top_DC) -  (3 weeks ago)
+- [ImMPrada/top_caesar_cipher](https://github.com/ImMPrada/top_caesar_cipher) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
 - [ImMPrada/frontendmentor_preview_card_component](https://github.com/ImMPrada/frontendmentor_preview_card_component) - a frontendmentor&#39;s challenge https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa
-- [ImMPrada/frontendmentor_price_grid](https://github.com/ImMPrada/frontendmentor_price_grid) - a frontendmentor&#39;s challenge https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc
+- [ImMPrada/frontendmentor_price_grid](https://github.com/ImMPrada/frontendmentor_price_grid) - a frontendmentor&#39;s challenge
 - [ImMPrada/top_event_manager](https://github.com/ImMPrada/top_event_manager) - 
 - [ImMPrada/top_mastermind](https://github.com/ImMPrada/top_mastermind) - 
 - [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) - 
