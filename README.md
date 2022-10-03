@@ -8,8 +8,9 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/frontendmentor_preview_card_component](https://github.com/ImMPrada/frontendmentor_preview_card_component) - a frontendmentor&#39;s challenge (1 day ago)
+- [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) -  (today)
 - [ImMPrada/frontendmentor_price_grid](https://github.com/ImMPrada/frontendmentor_price_grid) - a frontendmentor&#39;s challenge (1 day ago)
+- [ImMPrada/frontendmentor_preview_card_component](https://github.com/ImMPrada/frontendmentor_preview_card_component) - a frontendmentor&#39;s challenge (1 day ago)
 - [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) -  (4 days ago)
 - [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) -  (4 days ago)
 - [ImMPrada/top_event_manager](https://github.com/ImMPrada/top_event_manager) -  (5 days ago)
@@ -17,10 +18,10 @@ Experimental zone:
 - [ImMPrada/ruby_exercises](https://github.com/ImMPrada/ruby_exercises) - top: the odin&#39;s project (1 week ago)
 - [ImMPrada/top_recursion](https://github.com/ImMPrada/top_recursion) -  (3 weeks ago)
 - [ImMPrada/top_DC](https://github.com/ImMPrada/top_DC) -  (3 weeks ago)
-- [ImMPrada/top_caesar_cipher](https://github.com/ImMPrada/top_caesar_cipher) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
+- [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) - 
 - [ImMPrada/frontendmentor_preview_card_component](https://github.com/ImMPrada/frontendmentor_preview_card_component) - a frontendmentor&#39;s challenge
 - [ImMPrada/frontendmentor_price_grid](https://github.com/ImMPrada/frontendmentor_price_grid) - a frontendmentor&#39;s challenge
 - [ImMPrada/top_event_manager](https://github.com/ImMPrada/top_event_manager) - 
@@ -30,7 +31,6 @@ Experimental zone:
 - [ImMPrada/top_DC](https://github.com/ImMPrada/top_DC) - 
 - [ImMPrada/top_fibonacci](https://github.com/ImMPrada/top_fibonacci) - 
 - [ImMPrada/ruby_exercises](https://github.com/ImMPrada/ruby_exercises) - top: the odin&#39;s project
-- [ImMPrada/top_bubble_sort](https://github.com/ImMPrada/top_bubble_sort) - 
 
 #### 🔨 My recent Pull Requests
 
