@@ -34,6 +34,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Print hangman states](https://github.com/ImMPrada/top_hangman/pull/3) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (today)
 - [Round funcionality](https://github.com/ImMPrada/top_hangman/pull/2) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (1 day ago)
 - [Initialize game](https://github.com/ImMPrada/top_hangman/pull/1) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (1 day ago)
 - [Create form](https://github.com/andreslopezlu/card_details/pull/4) on [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) (4 days ago)
