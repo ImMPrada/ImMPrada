@@ -34,6 +34,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor abstraction [WIP]](https://github.com/ImMPrada/top_hangman/pull/4) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (today)
 - [Print hangman states](https://github.com/ImMPrada/top_hangman/pull/3) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (1 day ago)
 - [Round functionality [WIP]](https://github.com/ImMPrada/top_hangman/pull/2) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (2 days ago)
 - [Initialize game](https://github.com/ImMPrada/top_hangman/pull/1) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (2 days ago)
@@ -43,7 +44,6 @@ Experimental zone:
 - [This is just a test](https://github.com/ImMPrada/data_structures/pull/8) on [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) (6 days ago)
 - [nothing to do](https://github.com/ImMPrada/data_structures/pull/6) on [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) (6 days ago)
 - [hot fix for CV number at .card-back](https://github.com/andreslopezlu/card_details/pull/3) on [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) (6 days ago)
-- [Add simplecov](https://github.com/ImMPrada/data_structures/pull/5) on [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) (6 days ago)
 
 #### 📓 Gists I wrote
 
