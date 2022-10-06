@@ -8,9 +8,9 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
+- [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) -  (today)
 - [ImMPrada/ruby_exercises](https://github.com/ImMPrada/ruby_exercises) - top: the odin&#39;s project (1 day ago)
 - [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) -  (1 day ago)
-- [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) -  (2 days ago)
 - [ImMPrada/frontendmentor_preview_card_component](https://github.com/ImMPrada/frontendmentor_preview_card_component) - a frontendmentor&#39;s challenge (4 days ago)
 - [ImMPrada/frontendmentor_price_grid](https://github.com/ImMPrada/frontendmentor_price_grid) - a frontendmentor&#39;s challenge (4 days ago)
 - [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) -  (1 week ago)
