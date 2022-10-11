@@ -8,7 +8,7 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) -  (1 day ago)
+- [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) -  (today)
 - [ImMPrada/ruby_exercises](https://github.com/ImMPrada/ruby_exercises) - top: the odin&#39;s project (6 days ago)
 - [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) -  (6 days ago)
 - [ImMPrada/frontendmentor_price_grid](https://github.com/ImMPrada/frontendmentor_price_grid) - a frontendmentor&#39;s challenge (1 week ago)
@@ -34,7 +34,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
-- [Save load game [WIP]](https://github.com/ImMPrada/top_hangman/pull/5) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (today)
+- [save/load game [WIP]](https://github.com/ImMPrada/top_hangman/pull/5) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (today)
 - [Change card details in graphic](https://github.com/andreslopezlu/card_details/pull/5) on [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) (5 days ago)
 - [Refactor abstraction](https://github.com/ImMPrada/top_hangman/pull/4) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (6 days ago)
 - [Print hangman states](https://github.com/ImMPrada/top_hangman/pull/3) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (1 week ago)
