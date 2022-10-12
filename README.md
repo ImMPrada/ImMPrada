@@ -34,7 +34,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
-- [save/load game [WIP]](https://github.com/ImMPrada/top_hangman/pull/5) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (1 day ago)
+- [save/load game](https://github.com/ImMPrada/top_hangman/pull/5) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (1 day ago)
 - [Change card details in graphic](https://github.com/andreslopezlu/card_details/pull/5) on [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) (6 days ago)
 - [Refactor abstraction](https://github.com/ImMPrada/top_hangman/pull/4) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (1 week ago)
 - [Print hangman states](https://github.com/ImMPrada/top_hangman/pull/3) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (1 week ago)
