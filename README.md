@@ -8,8 +8,8 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/ruby_exercises](https://github.com/ImMPrada/ruby_exercises) - top: the odin&#39;s project (3 days ago)
-- [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) -  (4 days ago)
+- [ImMPrada/ruby_exercises](https://github.com/ImMPrada/ruby_exercises) - top: the odin&#39;s project (4 days ago)
+- [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) -  (5 days ago)
 - [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) -  (1 week ago)
 - [ImMPrada/frontendmentor_price_grid](https://github.com/ImMPrada/frontendmentor_price_grid) - a frontendmentor&#39;s challenge (2 weeks ago)
 - [ImMPrada/frontendmentor_preview_card_component](https://github.com/ImMPrada/frontendmentor_preview_card_component) - a frontendmentor&#39;s challenge (2 weeks ago)
@@ -34,12 +34,12 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
-- [save/load game](https://github.com/ImMPrada/top_hangman/pull/5) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (5 days ago)
+- [save/load game](https://github.com/ImMPrada/top_hangman/pull/5) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (6 days ago)
 - [Change card details in graphic](https://github.com/andreslopezlu/card_details/pull/5) on [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) (1 week ago)
 - [Refactor abstraction](https://github.com/ImMPrada/top_hangman/pull/4) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (1 week ago)
 - [Print hangman states](https://github.com/ImMPrada/top_hangman/pull/3) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (1 week ago)
-- [Round functionality [WIP]](https://github.com/ImMPrada/top_hangman/pull/2) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (1 week ago)
-- [Initialize game](https://github.com/ImMPrada/top_hangman/pull/1) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (1 week ago)
+- [Round functionality [WIP]](https://github.com/ImMPrada/top_hangman/pull/2) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (2 weeks ago)
+- [Initialize game](https://github.com/ImMPrada/top_hangman/pull/1) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (2 weeks ago)
 - [Create form](https://github.com/andreslopezlu/card_details/pull/4) on [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) (2 weeks ago)
 - [Containers](https://github.com/ImMPrada/frontendmentor_preview_card_component/pull/1) on [ImMPrada/frontendmentor_preview_card_component](https://github.com/ImMPrada/frontendmentor_preview_card_component) (2 weeks ago)
 - [Containers](https://github.com/ImMPrada/frontendmentor_price_grid/pull/1) on [ImMPrada/frontendmentor_price_grid](https://github.com/ImMPrada/frontendmentor_price_grid) (2 weeks ago)
