@@ -8,6 +8,7 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
+- [ImMPrada/ruby_practise](https://github.com/ImMPrada/ruby_practise) -  (today)
 - [ImMPrada/ruby_exercises](https://github.com/ImMPrada/ruby_exercises) - top: the odin&#39;s project (today)
 - [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) -  (6 days ago)
 - [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) -  (1 week ago)
@@ -17,10 +18,10 @@ Experimental zone:
 - [ImMPrada/top_event_manager](https://github.com/ImMPrada/top_event_manager) -  (2 weeks ago)
 - [ImMPrada/top_mastermind](https://github.com/ImMPrada/top_mastermind) -  (2 weeks ago)
 - [ImMPrada/top_caesar_cipher](https://github.com/ImMPrada/top_caesar_cipher) -  (1 month ago)
-- [ImMPrada/top_recursion](https://github.com/ImMPrada/top_recursion) -  (1 month ago)
 
 #### 🌱 My latest projects
 
+- [ImMPrada/ruby_practise](https://github.com/ImMPrada/ruby_practise) - 
 - [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) - 
 - [ImMPrada/frontendmentor_preview_card_component](https://github.com/ImMPrada/frontendmentor_preview_card_component) - a frontendmentor&#39;s challenge
 - [ImMPrada/frontendmentor_price_grid](https://github.com/ImMPrada/frontendmentor_price_grid) - a frontendmentor&#39;s challenge
@@ -30,7 +31,6 @@ Experimental zone:
 - [ImMPrada/top_recursion](https://github.com/ImMPrada/top_recursion) - 
 - [ImMPrada/top_DC](https://github.com/ImMPrada/top_DC) - 
 - [ImMPrada/top_fibonacci](https://github.com/ImMPrada/top_fibonacci) - 
-- [ImMPrada/ruby_exercises](https://github.com/ImMPrada/ruby_exercises) - top: the odin&#39;s project
 
 #### 🔨 My recent Pull Requests
 
