@@ -34,6 +34,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Show and select saved games](https://github.com/ImMPrada/top_hangman/pull/6) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (today)
 - [save/load game](https://github.com/ImMPrada/top_hangman/pull/5) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (1 week ago)
 - [Change card details in graphic](https://github.com/andreslopezlu/card_details/pull/5) on [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) (1 week ago)
 - [Refactor abstraction](https://github.com/ImMPrada/top_hangman/pull/4) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (1 week ago)
@@ -43,7 +44,6 @@ Experimental zone:
 - [Create form](https://github.com/andreslopezlu/card_details/pull/4) on [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) (2 weeks ago)
 - [Containers](https://github.com/ImMPrada/frontendmentor_preview_card_component/pull/1) on [ImMPrada/frontendmentor_preview_card_component](https://github.com/ImMPrada/frontendmentor_preview_card_component) (2 weeks ago)
 - [Containers](https://github.com/ImMPrada/frontendmentor_price_grid/pull/1) on [ImMPrada/frontendmentor_price_grid](https://github.com/ImMPrada/frontendmentor_price_grid) (2 weeks ago)
-- [This is just a test](https://github.com/ImMPrada/data_structures/pull/8) on [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
