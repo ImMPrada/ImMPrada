@@ -8,7 +8,7 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/ruby_practise](https://github.com/ImMPrada/ruby_practise) -  (1 day ago)
+- [ImMPrada/ruby_practise](https://github.com/ImMPrada/ruby_practise) -  (today)
 - [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) -  (2 days ago)
 - [ImMPrada/ruby_exercises](https://github.com/ImMPrada/ruby_exercises) - top: the odin&#39;s project (2 days ago)
 - [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) -  (2 weeks ago)
