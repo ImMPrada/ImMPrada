@@ -34,6 +34,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Proposed solution](https://github.com/ImMPrada/top_binary_search_trees/pull/1) on [ImMPrada/top_binary_search_trees](https://github.com/ImMPrada/top_binary_search_trees) (today)
 - [Proposed solution](https://github.com/ImMPrada/top_linkedLists/pull/1) on [ImMPrada/top_linkedLists](https://github.com/ImMPrada/top_linkedLists) (today)
 - [Proposed solution](https://github.com/ImMPrada/custom_enumerable_project/pull/1) on [ImMPrada/custom_enumerable_project](https://github.com/ImMPrada/custom_enumerable_project) (2 days ago)
 - [Proposed solution](https://github.com/TheOdinProject/custom_enumerable_project/pull/8) on [TheOdinProject/custom_enumerable_project](https://github.com/TheOdinProject/custom_enumerable_project) (3 days ago)
@@ -43,7 +44,6 @@ Experimental zone:
 - [Refactor abstraction](https://github.com/ImMPrada/top_hangman/pull/4) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (2 weeks ago)
 - [Print hangman states](https://github.com/ImMPrada/top_hangman/pull/3) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (2 weeks ago)
 - [Round functionality [WIP]](https://github.com/ImMPrada/top_hangman/pull/2) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (2 weeks ago)
-- [Initialize game](https://github.com/ImMPrada/top_hangman/pull/1) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
