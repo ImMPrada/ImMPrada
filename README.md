@@ -8,8 +8,8 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
+- [ImMPrada/top_linkedLists](https://github.com/ImMPrada/top_linkedLists) -  (today)
 - [ImMPrada/ruby_practise](https://github.com/ImMPrada/ruby_practise) -  (1 day ago)
-- [ImMPrada/top_linkedLists](https://github.com/ImMPrada/top_linkedLists) -  (1 day ago)
 - [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) -  (3 days ago)
 - [ImMPrada/ruby_exercises](https://github.com/ImMPrada/ruby_exercises) - top: the odin&#39;s project (3 days ago)
 - [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) -  (2 weeks ago)
@@ -34,7 +34,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
-- [Propsed solution](https://github.com/ImMPrada/top_linkedLists/pull/1) on [ImMPrada/top_linkedLists](https://github.com/ImMPrada/top_linkedLists) (today)
+- [Proposed solution](https://github.com/ImMPrada/top_linkedLists/pull/1) on [ImMPrada/top_linkedLists](https://github.com/ImMPrada/top_linkedLists) (today)
 - [Proposed solution](https://github.com/ImMPrada/custom_enumerable_project/pull/1) on [ImMPrada/custom_enumerable_project](https://github.com/ImMPrada/custom_enumerable_project) (2 days ago)
 - [Proposed solution](https://github.com/TheOdinProject/custom_enumerable_project/pull/8) on [TheOdinProject/custom_enumerable_project](https://github.com/TheOdinProject/custom_enumerable_project) (3 days ago)
 - [Show and select saved games](https://github.com/ImMPrada/top_hangman/pull/6) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (3 days ago)
