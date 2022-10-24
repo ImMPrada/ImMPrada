@@ -35,7 +35,7 @@ Experimental zone:
 #### 🔨 My recent Pull Requests
 
 - [Proposed solution specs [WIP]](https://github.com/ImMPrada/top_binary_search_trees/pull/2) on [ImMPrada/top_binary_search_trees](https://github.com/ImMPrada/top_binary_search_trees) (today)
-- [Proposed solution](https://github.com/ImMPrada/top_binary_search_trees/pull/1) on [ImMPrada/top_binary_search_trees](https://github.com/ImMPrada/top_binary_search_trees) (3 days ago)
+- [Proposed solution [WIP]](https://github.com/ImMPrada/top_binary_search_trees/pull/1) on [ImMPrada/top_binary_search_trees](https://github.com/ImMPrada/top_binary_search_trees) (3 days ago)
 - [Proposed solution](https://github.com/ImMPrada/top_linkedLists/pull/1) on [ImMPrada/top_linkedLists](https://github.com/ImMPrada/top_linkedLists) (3 days ago)
 - [Proposed solution](https://github.com/ImMPrada/custom_enumerable_project/pull/1) on [ImMPrada/custom_enumerable_project](https://github.com/ImMPrada/custom_enumerable_project) (5 days ago)
 - [Proposed solution](https://github.com/TheOdinProject/custom_enumerable_project/pull/8) on [TheOdinProject/custom_enumerable_project](https://github.com/TheOdinProject/custom_enumerable_project) (6 days ago)
