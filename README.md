@@ -8,14 +8,14 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
+- [ImMPrada/top_binary_search_trees](https://github.com/ImMPrada/top_binary_search_trees) -  (today)
 - [ImMPrada/top_linkedLists](https://github.com/ImMPrada/top_linkedLists) -  (1 day ago)
-- [ImMPrada/top_binary_search_trees](https://github.com/ImMPrada/top_binary_search_trees) -  (3 days ago)
 - [ImMPrada/ruby_practise](https://github.com/ImMPrada/ruby_practise) -  (4 days ago)
 - [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) -  (6 days ago)
 - [ImMPrada/ruby_exercises](https://github.com/ImMPrada/ruby_exercises) - top: the odin&#39;s project (6 days ago)
 - [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) -  (2 weeks ago)
-- [ImMPrada/frontendmentor_price_grid](https://github.com/ImMPrada/frontendmentor_price_grid) - a frontendmentor&#39;s challenge (3 weeks ago)
 - [ImMPrada/frontendmentor_preview_card_component](https://github.com/ImMPrada/frontendmentor_preview_card_component) - a frontendmentor&#39;s challenge (3 weeks ago)
+- [ImMPrada/frontendmentor_price_grid](https://github.com/ImMPrada/frontendmentor_price_grid) - a frontendmentor&#39;s challenge (3 weeks ago)
 - [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) -  (3 weeks ago)
 - [ImMPrada/top_mastermind](https://github.com/ImMPrada/top_mastermind) -  (3 weeks ago)
 
