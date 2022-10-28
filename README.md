@@ -8,9 +8,9 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
+- [ImMPrada/ruby_practise](https://github.com/ImMPrada/ruby_practise) -  (1 day ago)
 - [ImMPrada/top_binary_search_trees](https://github.com/ImMPrada/top_binary_search_trees) -  (1 day ago)
 - [ImMPrada/top_linkedLists](https://github.com/ImMPrada/top_linkedLists) -  (5 days ago)
-- [ImMPrada/ruby_practise](https://github.com/ImMPrada/ruby_practise) -  (1 week ago)
 - [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) -  (1 week ago)
 - [ImMPrada/ruby_exercises](https://github.com/ImMPrada/ruby_exercises) - top: the odin&#39;s project (1 week ago)
 - [andreslopezlu/card_details](https://github.com/andreslopezlu/card_details) -  (3 weeks ago)
