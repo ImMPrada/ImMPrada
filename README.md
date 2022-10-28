@@ -8,8 +8,8 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/top_binary_search_trees](https://github.com/ImMPrada/top_binary_search_trees) -  (today)
-- [ImMPrada/top_linkedLists](https://github.com/ImMPrada/top_linkedLists) -  (4 days ago)
+- [ImMPrada/top_binary_search_trees](https://github.com/ImMPrada/top_binary_search_trees) -  (1 day ago)
+- [ImMPrada/top_linkedLists](https://github.com/ImMPrada/top_linkedLists) -  (5 days ago)
 - [ImMPrada/ruby_practise](https://github.com/ImMPrada/ruby_practise) -  (1 week ago)
 - [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) -  (1 week ago)
 - [ImMPrada/ruby_exercises](https://github.com/ImMPrada/ruby_exercises) - top: the odin&#39;s project (1 week ago)
@@ -17,7 +17,7 @@ Experimental zone:
 - [ImMPrada/frontendmentor_preview_card_component](https://github.com/ImMPrada/frontendmentor_preview_card_component) - a frontendmentor&#39;s challenge (3 weeks ago)
 - [ImMPrada/frontendmentor_price_grid](https://github.com/ImMPrada/frontendmentor_price_grid) - a frontendmentor&#39;s challenge (3 weeks ago)
 - [ImMPrada/data_structures](https://github.com/ImMPrada/data_structures) -  (4 weeks ago)
-- [ImMPrada/top_mastermind](https://github.com/ImMPrada/top_mastermind) -  (4 weeks ago)
+- [ImMPrada/top_mastermind](https://github.com/ImMPrada/top_mastermind) -  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -34,9 +34,9 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
-- [Proposed solution specs [WIP]](https://github.com/ImMPrada/top_binary_search_trees/pull/2) on [ImMPrada/top_binary_search_trees](https://github.com/ImMPrada/top_binary_search_trees) (3 days ago)
-- [Proposed solution [WIP]](https://github.com/ImMPrada/top_binary_search_trees/pull/1) on [ImMPrada/top_binary_search_trees](https://github.com/ImMPrada/top_binary_search_trees) (6 days ago)
-- [Proposed solution](https://github.com/ImMPrada/top_linkedLists/pull/1) on [ImMPrada/top_linkedLists](https://github.com/ImMPrada/top_linkedLists) (6 days ago)
+- [Proposed solution specs [WIP]](https://github.com/ImMPrada/top_binary_search_trees/pull/2) on [ImMPrada/top_binary_search_trees](https://github.com/ImMPrada/top_binary_search_trees) (4 days ago)
+- [Proposed solution [WIP]](https://github.com/ImMPrada/top_binary_search_trees/pull/1) on [ImMPrada/top_binary_search_trees](https://github.com/ImMPrada/top_binary_search_trees) (1 week ago)
+- [Proposed solution](https://github.com/ImMPrada/top_linkedLists/pull/1) on [ImMPrada/top_linkedLists](https://github.com/ImMPrada/top_linkedLists) (1 week ago)
 - [Proposed solution](https://github.com/ImMPrada/custom_enumerable_project/pull/1) on [ImMPrada/custom_enumerable_project](https://github.com/ImMPrada/custom_enumerable_project) (1 week ago)
 - [Proposed solution](https://github.com/TheOdinProject/custom_enumerable_project/pull/8) on [TheOdinProject/custom_enumerable_project](https://github.com/TheOdinProject/custom_enumerable_project) (1 week ago)
 - [Show and select saved games](https://github.com/ImMPrada/top_hangman/pull/6) on [ImMPrada/top_hangman](https://github.com/ImMPrada/top_hangman) (1 week ago)
