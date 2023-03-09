@@ -2,7 +2,7 @@
 
 Experimental zone:
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=immprada)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=immprada)](https://git.io/streak-stats)
 
 
 
