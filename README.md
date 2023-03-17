@@ -2,53 +2,40 @@
 
 Experimental zone:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=immprada)](https://git.io/streak-stats)
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=immprada&show_icons=true&theme=apprentice&border_radius=10&include_all_commits=true&count_private=true&hide_title=true" alt="github-readme-streak-stats"></a>
+</p>
 
-
-[![Immprada's GitHub stats](https://github-readme-stats.vercel.app/api?username=immprada&show_icons=true&theme=apprentice&border_radius=10&include_all_commits=true&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immprada&show_icons=true&theme=apprentice&border_radius=10&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pradaing&repo=structuraid-core&show_icons=true&theme=apprentice&border_radius=10&include_all_commits=true&count_private=true)](https://github.com/PradaIng/structuraid-core)
-
-
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=immprada&show_icons=true&theme=apprentice&border_radius=10&include_all_commits=true&count_private=true&hide_title=true)" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immprada&show_icons=true&theme=apprentice&border_radius=10&include_all_commits=true&count_private=true" alt="github-readme-streak-stats"></a>
+</p>
 
 <details open> 
-  <summary><h2>🌠 Top Sponsors</h2></summary>
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-  <table>
-    <tr>
-      <!-- <th>$10+/month</th> -->
-      <th>$5+/month</th>
-    </tr>
-    <tr>
-      <!-- $10+/month -->
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/jesterb0206"><img src="https://github.com/jesterb0206.png" alt="@jesterb0206" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/jesterb0206"><b>Bradley Jester</b></a>
-        </b>
-      </td> -->
-      <!-- $5+/month -->
-      <td>
-        <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-      </td>
-    </tr>
-  </table>
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=pradaing&repo=structuraid-core&show_icons=true&theme=apprentice&border_radius=10&include_all_commits=true&count_private=true" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=pradaing&repo=structuraid-core&show_icons=true&theme=apprentice&border_radius=10&include_all_commits=true&count_private=true" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=pradaing&repo=structuraid-core&show_icons=true&theme=apprentice&border_radius=10&include_all_commits=true&count_private=true" alt="github-readme-streak-stats"></a>
+  </p>
 
-  <a href="https://github.com/sponsors/DenverCoder1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
+
+
+<!-- <details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img width="100%" alt="ImMPrada's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=immprada&theme=high-contrast&radius=10&custom_title=ImMPrada%27s%20contributions" /></a>
+
+ 
+</details> -->
 
 
 
