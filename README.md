@@ -59,7 +59,7 @@ Experimental zone:
 #### 🔨 My recent Pull Requests
 
 - [Refactor/vector and relative location](https://github.com/PradaIng/structuraid-core/pull/32) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (1 week ago)
-- [Feat/analysis combined footing [WIP]](https://github.com/PradaIng/structuraid-core/pull/31) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (1 week ago)
+- [Feat/analysis combined footing](https://github.com/PradaIng/structuraid-core/pull/31) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (1 week ago)
 - [Feat/array multiplication [WIP]](https://github.com/PradaIng/structuraid-core/pull/30) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (1 week ago)
 - [Analysis combined footing [WIP]](https://github.com/PradaIng/structuraid-core/pull/28) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (1 week ago)
 - [Tablet propuesta](https://github.com/andreslopezlu/01_huddle_broders/pull/15) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (1 week ago)
