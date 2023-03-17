@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-Experimental zone:
-
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=immprada&show_icons=true&theme=apprentice&border_radius=10&include_all_commits=true&count_private=true&hide_title=true" alt="github-readme-streak-stats"></a>
 </p>
