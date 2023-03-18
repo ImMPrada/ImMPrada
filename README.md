@@ -32,8 +32,8 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) - This is a first repository for the portfolio. HTML, CSS and collaborative skills are trained. (2 days ago)
-- [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (2 days ago)
+- [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) - This is a first repository for the portfolio. HTML, CSS and collaborative skills are trained. (3 days ago)
+- [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (3 days ago)
 - [ImMPrada/re-former](https://github.com/ImMPrada/re-former) -  (2 weeks ago)
 - [PradaIng/structuraid-desktop](https://github.com/PradaIng/structuraid-desktop) -  (2 weeks ago)
 - [ImMPrada/top_ror_activerecord_warming_up](https://github.com/ImMPrada/top_ror_activerecord_warming_up) -  (1 month ago)
@@ -62,7 +62,7 @@ Experimental zone:
 - [Feat/analysis combined footing](https://github.com/PradaIng/structuraid-core/pull/31) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (1 week ago)
 - [Feat/array multiplication [WIP]](https://github.com/PradaIng/structuraid-core/pull/30) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (1 week ago)
 - [Analysis combined footing [WIP]](https://github.com/PradaIng/structuraid-core/pull/28) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (1 week ago)
-- [Tablet propuesta](https://github.com/andreslopezlu/01_huddle_broders/pull/15) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (1 week ago)
+- [Tablet propuesta](https://github.com/andreslopezlu/01_huddle_broders/pull/15) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (2 weeks ago)
 - [Responsive [rebuild]](https://github.com/andreslopezlu/01_huddle_broders/pull/13) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (2 weeks ago)
 - [add footer [rebuild]](https://github.com/andreslopezlu/01_huddle_broders/pull/12) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (2 weeks ago)
 - [Revert &#34;add footer&#34;](https://github.com/andreslopezlu/01_huddle_broders/pull/11) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (2 weeks ago)
