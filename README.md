@@ -58,6 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Add list](https://github.com/ImMPrada/todo_llist_ror/pull/1) on [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) (today)
 - [Refactor/vector and relative location](https://github.com/PradaIng/structuraid-core/pull/32) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (1 week ago)
 - [Feat/analysis combined footing](https://github.com/PradaIng/structuraid-core/pull/31) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (1 week ago)
 - [Feat/array multiplication [WIP]](https://github.com/PradaIng/structuraid-core/pull/30) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (1 week ago)
@@ -66,7 +67,6 @@ Experimental zone:
 - [Responsive [rebuild]](https://github.com/andreslopezlu/01_huddle_broders/pull/13) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (2 weeks ago)
 - [add footer [rebuild]](https://github.com/andreslopezlu/01_huddle_broders/pull/12) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (2 weeks ago)
 - [Revert &#34;add footer&#34;](https://github.com/andreslopezlu/01_huddle_broders/pull/11) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (2 weeks ago)
-- [Revert &#34;Responsive&#34;](https://github.com/andreslopezlu/01_huddle_broders/pull/10) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
