@@ -32,7 +32,7 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/re-former](https://github.com/ImMPrada/re-former) -  (1 day ago)
+- [ImMPrada/re-former](https://github.com/ImMPrada/re-former) -  (2 days ago)
 - [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) -  (1 week ago)
 - [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) - This is a first repository for the portfolio. HTML, CSS and collaborative skills are trained. (1 week ago)
 - [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (1 week ago)
@@ -58,14 +58,14 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
-- [Deployment [WIP]](https://github.com/ImMPrada/re-former/pull/5) on [ImMPrada/re-former](https://github.com/ImMPrada/re-former) (1 day ago)
-- [For with formwith [WIP]](https://github.com/ImMPrada/re-former/pull/4) on [ImMPrada/re-former](https://github.com/ImMPrada/re-former) (4 days ago)
-- [Add list](https://github.com/ImMPrada/todo_llist_ror/pull/1) on [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) (6 days ago)
+- [Deployment [WIP]](https://github.com/ImMPrada/re-former/pull/5) on [ImMPrada/re-former](https://github.com/ImMPrada/re-former) (2 days ago)
+- [For with formwith [WIP]](https://github.com/ImMPrada/re-former/pull/4) on [ImMPrada/re-former](https://github.com/ImMPrada/re-former) (5 days ago)
+- [Add list](https://github.com/ImMPrada/todo_llist_ror/pull/1) on [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) (1 week ago)
 - [Refactor/vector and relative location](https://github.com/PradaIng/structuraid-core/pull/32) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 weeks ago)
 - [Feat/analysis combined footing](https://github.com/PradaIng/structuraid-core/pull/31) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 weeks ago)
 - [Feat/array multiplication [WIP]](https://github.com/PradaIng/structuraid-core/pull/30) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 weeks ago)
 - [Analysis combined footing [WIP]](https://github.com/PradaIng/structuraid-core/pull/28) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 weeks ago)
-- [Tablet propuesta](https://github.com/andreslopezlu/01_huddle_broders/pull/15) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (2 weeks ago)
+- [Tablet propuesta](https://github.com/andreslopezlu/01_huddle_broders/pull/15) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (3 weeks ago)
 - [Responsive [rebuild]](https://github.com/andreslopezlu/01_huddle_broders/pull/13) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (3 weeks ago)
 
 #### 📓 Gists I wrote
