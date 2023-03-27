@@ -32,13 +32,13 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/re-former](https://github.com/ImMPrada/re-former) -  (3 days ago)
+- [ImMPrada/re-former](https://github.com/ImMPrada/re-former) -  (1 day ago)
 - [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) -  (1 week ago)
 - [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) - This is a first repository for the portfolio. HTML, CSS and collaborative skills are trained. (1 week ago)
 - [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (1 week ago)
-- [PradaIng/structuraid-desktop](https://github.com/PradaIng/structuraid-desktop) -  (3 weeks ago)
-- [ImMPrada/top_ror_activerecord_warming_up](https://github.com/ImMPrada/top_ror_activerecord_warming_up) -  (1 month ago)
-- [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) -  (1 month ago)
+- [PradaIng/structuraid-desktop](https://github.com/PradaIng/structuraid-desktop) -  (4 weeks ago)
+- [ImMPrada/top_ror_activerecord_warming_up](https://github.com/ImMPrada/top_ror_activerecord_warming_up) -  (2 months ago)
+- [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) -  (2 months ago)
 - [ImMPrada/top_ror_basic_deploy](https://github.com/ImMPrada/top_ror_basic_deploy) -  (2 months ago)
 - [mapra99/audiophile-api](https://github.com/mapra99/audiophile-api) -  (2 months ago)
 - [ImMPrada/top_ruby_chess](https://github.com/ImMPrada/top_ruby_chess) -  (3 months ago)
@@ -58,8 +58,8 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
-- [Deployment [WIP]](https://github.com/ImMPrada/re-former/pull/5) on [ImMPrada/re-former](https://github.com/ImMPrada/re-former) (3 days ago)
-- [For with formwith [WIP]](https://github.com/ImMPrada/re-former/pull/4) on [ImMPrada/re-former](https://github.com/ImMPrada/re-former) (6 days ago)
+- [Deployment [WIP]](https://github.com/ImMPrada/re-former/pull/5) on [ImMPrada/re-former](https://github.com/ImMPrada/re-former) (4 days ago)
+- [For with formwith [WIP]](https://github.com/ImMPrada/re-former/pull/4) on [ImMPrada/re-former](https://github.com/ImMPrada/re-former) (1 week ago)
 - [Add list](https://github.com/ImMPrada/todo_llist_ror/pull/1) on [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) (1 week ago)
 - [Refactor/vector and relative location](https://github.com/PradaIng/structuraid-core/pull/32) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 weeks ago)
 - [Feat/analysis combined footing](https://github.com/PradaIng/structuraid-core/pull/31) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 weeks ago)
