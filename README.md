@@ -58,6 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/bending requirements](https://github.com/PradaIng/structuraid-core/pull/49) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (today)
 - [Final refactoring](https://github.com/andreslopezlu/01_huddle_broders/pull/17) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (1 day ago)
 - [Deployment [WIP]](https://github.com/ImMPrada/re-former/pull/5) on [ImMPrada/re-former](https://github.com/ImMPrada/re-former) (1 week ago)
 - [For with formwith](https://github.com/ImMPrada/re-former/pull/4) on [ImMPrada/re-former](https://github.com/ImMPrada/re-former) (1 week ago)
@@ -66,7 +67,6 @@ Experimental zone:
 - [Feat/analysis combined footing](https://github.com/PradaIng/structuraid-core/pull/31) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (3 weeks ago)
 - [Feat/array multiplication [WIP]](https://github.com/PradaIng/structuraid-core/pull/30) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (3 weeks ago)
 - [Analysis combined footing [WIP]](https://github.com/PradaIng/structuraid-core/pull/28) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (3 weeks ago)
-- [Tablet propuesta](https://github.com/andreslopezlu/01_huddle_broders/pull/15) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
