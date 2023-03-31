@@ -32,10 +32,10 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
+- [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (today)
 - [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) - This is a first repository for the portfolio. HTML, CSS and collaborative skills are trained. (1 day ago)
 - [ImMPrada/re-former](https://github.com/ImMPrada/re-former) -  (4 days ago)
 - [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) -  (4 days ago)
-- [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (2 weeks ago)
 - [PradaIng/structuraid-desktop](https://github.com/PradaIng/structuraid-desktop) -  (1 month ago)
 - [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) -  (2 months ago)
 - [ImMPrada/top_ror_activerecord_warming_up](https://github.com/ImMPrada/top_ror_activerecord_warming_up) -  (2 months ago)
