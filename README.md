@@ -32,10 +32,10 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (1 day ago)
-- [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) - This is a first repository for the portfolio. HTML, CSS and collaborative skills are trained. (3 days ago)
-- [ImMPrada/re-former](https://github.com/ImMPrada/re-former) -  (6 days ago)
-- [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) -  (6 days ago)
+- [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (2 days ago)
+- [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) - This is a first repository for the portfolio. HTML, CSS and collaborative skills are trained. (4 days ago)
+- [ImMPrada/re-former](https://github.com/ImMPrada/re-former) -  (1 week ago)
+- [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) -  (1 week ago)
 - [PradaIng/structuraid-desktop](https://github.com/PradaIng/structuraid-desktop) -  (1 month ago)
 - [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) -  (2 months ago)
 - [ImMPrada/top_ror_activerecord_warming_up](https://github.com/ImMPrada/top_ror_activerecord_warming_up) -  (2 months ago)
@@ -58,11 +58,11 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/shear capacity](https://github.com/PradaIng/structuraid-core/pull/51) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (1 day ago)
-- [Feat/bending requirements](https://github.com/PradaIng/structuraid-core/pull/49) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 days ago)
-- [Final refactoring](https://github.com/andreslopezlu/01_huddle_broders/pull/17) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (3 days ago)
+- [Feat/shear capacity](https://github.com/PradaIng/structuraid-core/pull/51) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 days ago)
+- [Feat/bending requirements](https://github.com/PradaIng/structuraid-core/pull/49) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (3 days ago)
+- [Final refactoring](https://github.com/andreslopezlu/01_huddle_broders/pull/17) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (4 days ago)
 - [Deployment [WIP]](https://github.com/ImMPrada/re-former/pull/5) on [ImMPrada/re-former](https://github.com/ImMPrada/re-former) (1 week ago)
-- [For with formwith](https://github.com/ImMPrada/re-former/pull/4) on [ImMPrada/re-former](https://github.com/ImMPrada/re-former) (1 week ago)
+- [For with formwith](https://github.com/ImMPrada/re-former/pull/4) on [ImMPrada/re-former](https://github.com/ImMPrada/re-former) (2 weeks ago)
 - [Add list](https://github.com/ImMPrada/todo_llist_ror/pull/1) on [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) (2 weeks ago)
 - [Refactor/vector and relative location](https://github.com/PradaIng/structuraid-core/pull/32) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (3 weeks ago)
 - [Feat/analysis combined footing](https://github.com/PradaIng/structuraid-core/pull/31) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (3 weeks ago)
