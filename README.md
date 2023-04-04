@@ -40,7 +40,7 @@ Experimental zone:
 - [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) -  (2 months ago)
 - [ImMPrada/top_ror_activerecord_warming_up](https://github.com/ImMPrada/top_ror_activerecord_warming_up) -  (2 months ago)
 - [ImMPrada/top_ror_basic_deploy](https://github.com/ImMPrada/top_ror_basic_deploy) -  (2 months ago)
-- [mapra99/audiophile-api](https://github.com/mapra99/audiophile-api) -  (3 months ago)
+- [mapra99/audiophile-api](https://github.com/mapra99/audiophile-api) - Simple API for basic E-Commerce functionalities (3 months ago)
 - [ImMPrada/top_ruby_chess](https://github.com/ImMPrada/top_ruby_chess) -  (3 months ago)
 
 #### 🌱 My latest projects
