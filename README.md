@@ -58,6 +58,8 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/critical section requirement](https://github.com/PradaIng/structuraid-core/pull/54) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (today)
+- [Feat/punching shear requirements [WIP]](https://github.com/PradaIng/structuraid-core/pull/53) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (today)
 - [Feat/capacity reduction factors](https://github.com/PradaIng/structuraid-core/pull/52) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 days ago)
 - [Feat/shear capacity](https://github.com/PradaIng/structuraid-core/pull/51) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (4 days ago)
 - [Feat/bending requirements](https://github.com/PradaIng/structuraid-core/pull/49) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (5 days ago)
@@ -65,8 +67,6 @@ Experimental zone:
 - [Deployment [WIP]](https://github.com/ImMPrada/re-former/pull/5) on [ImMPrada/re-former](https://github.com/ImMPrada/re-former) (1 week ago)
 - [For with formwith](https://github.com/ImMPrada/re-former/pull/4) on [ImMPrada/re-former](https://github.com/ImMPrada/re-former) (2 weeks ago)
 - [Add list](https://github.com/ImMPrada/todo_llist_ror/pull/1) on [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) (2 weeks ago)
-- [Refactor/vector and relative location](https://github.com/PradaIng/structuraid-core/pull/32) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (3 weeks ago)
-- [Feat/analysis combined footing](https://github.com/PradaIng/structuraid-core/pull/31) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
