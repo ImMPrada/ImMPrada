@@ -32,6 +32,7 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
+- [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (today)
 - [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (3 days ago)
 - [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) - This is a first repository for the portfolio. HTML, CSS and collaborative skills are trained. (1 week ago)
 - [ImMPrada/re-former](https://github.com/ImMPrada/re-former) -  (1 week ago)
@@ -41,10 +42,10 @@ Experimental zone:
 - [ImMPrada/top_ror_activerecord_warming_up](https://github.com/ImMPrada/top_ror_activerecord_warming_up) -  (2 months ago)
 - [ImMPrada/top_ror_basic_deploy](https://github.com/ImMPrada/top_ror_basic_deploy) -  (2 months ago)
 - [mapra99/audiophile-api](https://github.com/mapra99/audiophile-api) - Simple API for basic E-Commerce functionalities (3 months ago)
-- [ImMPrada/top_ruby_chess](https://github.com/ImMPrada/top_ruby_chess) -  (3 months ago)
 
 #### 🌱 My latest projects
 
+- [ImMPrada/members-only](https://github.com/ImMPrada/members-only) - 
 - [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) - 
 - [ImMPrada/re-former](https://github.com/ImMPrada/re-former) - 
 - [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) - 
@@ -54,7 +55,6 @@ Experimental zone:
 - [ImMPrada/frontendmentor_rock_paper_scissors](https://github.com/ImMPrada/frontendmentor_rock_paper_scissors) - 
 - [ImMPrada/top_ruby_chess](https://github.com/ImMPrada/top_ruby_chess) - 
 - [ImMPrada/top_knights_travails](https://github.com/ImMPrada/top_knights_travails) - 
-- [ImMPrada/top_binary_search_trees](https://github.com/ImMPrada/top_binary_search_trees) - 
 
 #### 🔨 My recent Pull Requests
 
