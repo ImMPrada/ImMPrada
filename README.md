@@ -58,6 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/add basic models [WIP]](https://github.com/ImMPrada/members-only/pull/1) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (today)
 - [Feat/critical section requirement](https://github.com/PradaIng/structuraid-core/pull/54) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (5 days ago)
 - [Feat/punching shear requirements [WIP]](https://github.com/PradaIng/structuraid-core/pull/53) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (5 days ago)
 - [Feat/capacity reduction factors](https://github.com/PradaIng/structuraid-core/pull/52) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (1 week ago)
