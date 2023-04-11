@@ -58,6 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/initial controllers and views [WIP]](https://github.com/ImMPrada/members-only/pull/2) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (today)
 - [Feat/add basic models](https://github.com/ImMPrada/members-only/pull/1) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (1 day ago)
 - [Feat/critical section requirement](https://github.com/PradaIng/structuraid-core/pull/54) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (6 days ago)
 - [Feat/punching shear requirements [WIP]](https://github.com/PradaIng/structuraid-core/pull/53) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (6 days ago)
@@ -67,7 +68,6 @@ Experimental zone:
 - [Final refactoring](https://github.com/andreslopezlu/01_huddle_broders/pull/17) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (1 week ago)
 - [Deployment [WIP]](https://github.com/ImMPrada/re-former/pull/5) on [ImMPrada/re-former](https://github.com/ImMPrada/re-former) (2 weeks ago)
 - [For with formwith](https://github.com/ImMPrada/re-former/pull/4) on [ImMPrada/re-former](https://github.com/ImMPrada/re-former) (3 weeks ago)
-- [Add list](https://github.com/ImMPrada/todo_llist_ror/pull/1) on [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
