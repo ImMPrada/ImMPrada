@@ -58,7 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/add user authentication [WIP]](https://github.com/ImMPrada/members-only/pull/3) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (1 day ago)
+- [Feat/add user authentication](https://github.com/ImMPrada/members-only/pull/3) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (1 day ago)
 - [Feat/initial controllers and views [WIP]](https://github.com/ImMPrada/members-only/pull/2) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (2 days ago)
 - [Feat/add basic models](https://github.com/ImMPrada/members-only/pull/1) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (3 days ago)
 - [Feat/critical section requirement](https://github.com/PradaIng/structuraid-core/pull/54) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (1 week ago)
