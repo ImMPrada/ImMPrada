@@ -32,6 +32,7 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
+- [andreslopezlu/02_pricing_component_broders](https://github.com/andreslopezlu/02_pricing_component_broders) -  (today)
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (1 day ago)
 - [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (2 days ago)
 - [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) -  (1 week ago)
@@ -41,7 +42,6 @@ Experimental zone:
 - [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) -  (3 weeks ago)
 - [PradaIng/structuraid-desktop](https://github.com/PradaIng/structuraid-desktop) -  (1 month ago)
 - [ImMPrada/top_ror_activerecord_warming_up](https://github.com/ImMPrada/top_ror_activerecord_warming_up) -  (2 months ago)
-- [ImMPrada/top_ror_basic_deploy](https://github.com/ImMPrada/top_ror_basic_deploy) -  (3 months ago)
 
 #### 🌱 My latest projects
 
