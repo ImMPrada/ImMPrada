@@ -32,6 +32,7 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
+- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (1 day ago)
 - [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (2 days ago)
 - [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) -  (1 week ago)
 - [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (2 weeks ago)
@@ -41,10 +42,10 @@ Experimental zone:
 - [PradaIng/structuraid-desktop](https://github.com/PradaIng/structuraid-desktop) -  (1 month ago)
 - [ImMPrada/top_ror_activerecord_warming_up](https://github.com/ImMPrada/top_ror_activerecord_warming_up) -  (2 months ago)
 - [ImMPrada/top_ror_basic_deploy](https://github.com/ImMPrada/top_ror_basic_deploy) -  (3 months ago)
-- [mapra99/audiophile-api](https://github.com/mapra99/audiophile-api) - Simple API for basic E-Commerce functionalities (3 months ago)
 
 #### 🌱 My latest projects
 
+- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io
 - [ImMPrada/members-only](https://github.com/ImMPrada/members-only) - 
 - [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) - 
 - [ImMPrada/re-former](https://github.com/ImMPrada/re-former) - 
@@ -54,7 +55,6 @@ Experimental zone:
 - [ImMPrada/ping_pong_teams](https://github.com/ImMPrada/ping_pong_teams) - 
 - [ImMPrada/frontendmentor_rock_paper_scissors](https://github.com/ImMPrada/frontendmentor_rock_paper_scissors) - 
 - [ImMPrada/top_ruby_chess](https://github.com/ImMPrada/top_ruby_chess) - 
-- [ImMPrada/top_knights_travails](https://github.com/ImMPrada/top_knights_travails) - 
 
 #### 🔨 My recent Pull Requests
 
