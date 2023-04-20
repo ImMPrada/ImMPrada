@@ -58,6 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/form personal info](https://github.com/ImMPrada/multi-step-form-FM/pull/2) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (today)
 - [Add styles](https://github.com/ImMPrada/multi-step-form-FM/pull/1) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 day ago)
 - [Feat/add user authentication](https://github.com/ImMPrada/members-only/pull/3) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (1 week ago)
 - [Feat/initial controllers and views](https://github.com/ImMPrada/members-only/pull/2) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (1 week ago)
@@ -67,7 +68,6 @@ Experimental zone:
 - [Feat/capacity reduction factors](https://github.com/PradaIng/structuraid-core/pull/52) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 weeks ago)
 - [Feat/shear capacity](https://github.com/PradaIng/structuraid-core/pull/51) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 weeks ago)
 - [Feat/bending requirements](https://github.com/PradaIng/structuraid-core/pull/49) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 weeks ago)
-- [Final refactoring](https://github.com/andreslopezlu/01_huddle_broders/pull/17) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
