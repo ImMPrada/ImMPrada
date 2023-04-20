@@ -32,12 +32,12 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (today)
-- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (1 day ago)
-- [andreslopezlu/02_pricing_component_broders](https://github.com/andreslopezlu/02_pricing_component_broders) -  (2 days ago)
-- [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) -  (1 week ago)
+- [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (1 day ago)
+- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (2 days ago)
+- [andreslopezlu/02_pricing_component_broders](https://github.com/andreslopezlu/02_pricing_component_broders) -  (3 days ago)
+- [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) -  (2 weeks ago)
 - [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (2 weeks ago)
-- [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) - This is a first repository for the portfolio. HTML, CSS and collaborative skills are trained. (2 weeks ago)
+- [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) - This is a first repository for the portfolio. HTML, CSS and collaborative skills are trained. (3 weeks ago)
 - [ImMPrada/re-former](https://github.com/ImMPrada/re-former) -  (3 weeks ago)
 - [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) -  (3 weeks ago)
 - [PradaIng/structuraid-desktop](https://github.com/PradaIng/structuraid-desktop) -  (1 month ago)
@@ -58,7 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
-- [Add styles](https://github.com/ImMPrada/multi-step-form-FM/pull/1) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (today)
+- [Add styles](https://github.com/ImMPrada/multi-step-form-FM/pull/1) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 day ago)
 - [Feat/add user authentication](https://github.com/ImMPrada/members-only/pull/3) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (1 week ago)
 - [Feat/initial controllers and views](https://github.com/ImMPrada/members-only/pull/2) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (1 week ago)
 - [Feat/add basic models](https://github.com/ImMPrada/members-only/pull/1) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (1 week ago)
@@ -67,7 +67,7 @@ Experimental zone:
 - [Feat/capacity reduction factors](https://github.com/PradaIng/structuraid-core/pull/52) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 weeks ago)
 - [Feat/shear capacity](https://github.com/PradaIng/structuraid-core/pull/51) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 weeks ago)
 - [Feat/bending requirements](https://github.com/PradaIng/structuraid-core/pull/49) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 weeks ago)
-- [Final refactoring](https://github.com/andreslopezlu/01_huddle_broders/pull/17) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (2 weeks ago)
+- [Final refactoring](https://github.com/andreslopezlu/01_huddle_broders/pull/17) on [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
