@@ -32,19 +32,20 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
+- [ImMPrada/private-events](https://github.com/ImMPrada/private-events) -  (today)
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (today)
 - [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (4 days ago)
 - [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (6 days ago)
 - [andreslopezlu/02_pricing_component_broders](https://github.com/andreslopezlu/02_pricing_component_broders) -  (1 week ago)
 - [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) -  (2 weeks ago)
 - [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) - This is a first repository for the portfolio. HTML, CSS and collaborative skills are trained. (3 weeks ago)
-- [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) -  (4 weeks ago)
 - [ImMPrada/re-former](https://github.com/ImMPrada/re-former) -  (4 weeks ago)
+- [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) -  (4 weeks ago)
 - [PradaIng/structuraid-desktop](https://github.com/PradaIng/structuraid-desktop) -  (1 month ago)
-- [ImMPrada/top_ror_activerecord_warming_up](https://github.com/ImMPrada/top_ror_activerecord_warming_up) -  (2 months ago)
 
 #### 🌱 My latest projects
 
+- [ImMPrada/private-events](https://github.com/ImMPrada/private-events) - 
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io
 - [ImMPrada/members-only](https://github.com/ImMPrada/members-only) - 
 - [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) - 
@@ -54,7 +55,6 @@ Experimental zone:
 - [ImMPrada/top_ror_basic_deploy](https://github.com/ImMPrada/top_ror_basic_deploy) - 
 - [ImMPrada/ping_pong_teams](https://github.com/ImMPrada/ping_pong_teams) - 
 - [ImMPrada/frontendmentor_rock_paper_scissors](https://github.com/ImMPrada/frontendmentor_rock_paper_scissors) - 
-- [ImMPrada/top_ruby_chess](https://github.com/ImMPrada/top_ruby_chess) - 
 
 #### 🔨 My recent Pull Requests
 
