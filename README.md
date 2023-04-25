@@ -58,6 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/events users [WIP]](https://github.com/ImMPrada/private-events/pull/1) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (today)
 - [Feat/concrete cover](https://github.com/PradaIng/structuraid-core/pull/57) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (today)
 - [Feat/form personal info](https://github.com/ImMPrada/multi-step-form-FM/pull/2) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (5 days ago)
 - [Add styles](https://github.com/ImMPrada/multi-step-form-FM/pull/1) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (6 days ago)
@@ -67,7 +68,6 @@ Experimental zone:
 - [Feat/critical section requirement](https://github.com/PradaIng/structuraid-core/pull/54) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 weeks ago)
 - [Feat/punching shear requirements [WIP]](https://github.com/PradaIng/structuraid-core/pull/53) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 weeks ago)
 - [Feat/capacity reduction factors](https://github.com/PradaIng/structuraid-core/pull/52) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (3 weeks ago)
-- [Feat/shear capacity](https://github.com/PradaIng/structuraid-core/pull/51) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
