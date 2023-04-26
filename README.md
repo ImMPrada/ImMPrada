@@ -32,8 +32,8 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/private-events](https://github.com/ImMPrada/private-events) -  (today)
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (today)
+- [ImMPrada/private-events](https://github.com/ImMPrada/private-events) -  (today)
 - [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (today)
 - [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (1 week ago)
 - [andreslopezlu/02_pricing_component_broders](https://github.com/andreslopezlu/02_pricing_component_broders) -  (1 week ago)
@@ -58,6 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Fix/account at create](https://github.com/ImMPrada/multi-step-form-FM/pull/3) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (today)
 - [Feat/add forms styles](https://github.com/ImMPrada/private-events/pull/2) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (today)
 - [Feat/events users](https://github.com/ImMPrada/private-events/pull/1) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (1 day ago)
 - [Feat/concrete cover](https://github.com/PradaIng/structuraid-core/pull/57) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (1 day ago)
@@ -67,7 +68,6 @@ Experimental zone:
 - [Feat/initial controllers and views](https://github.com/ImMPrada/members-only/pull/2) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (2 weeks ago)
 - [Feat/add basic models](https://github.com/ImMPrada/members-only/pull/1) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (2 weeks ago)
 - [Feat/critical section requirement](https://github.com/PradaIng/structuraid-core/pull/54) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (3 weeks ago)
-- [Feat/punching shear requirements [WIP]](https://github.com/PradaIng/structuraid-core/pull/53) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
