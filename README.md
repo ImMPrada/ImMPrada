@@ -58,7 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/events users [WIP]](https://github.com/ImMPrada/private-events/pull/1) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (1 day ago)
+- [Feat/events users](https://github.com/ImMPrada/private-events/pull/1) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (1 day ago)
 - [Feat/concrete cover](https://github.com/PradaIng/structuraid-core/pull/57) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (1 day ago)
 - [Feat/form personal info](https://github.com/ImMPrada/multi-step-form-FM/pull/2) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (6 days ago)
 - [Add styles](https://github.com/ImMPrada/multi-step-form-FM/pull/1) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
