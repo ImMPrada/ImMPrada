@@ -32,9 +32,9 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (today)
 - [ImMPrada/private-events](https://github.com/ImMPrada/private-events) -  (today)
-- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (1 day ago)
+- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (today)
+- [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (today)
 - [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (1 week ago)
 - [andreslopezlu/02_pricing_component_broders](https://github.com/andreslopezlu/02_pricing_component_broders) -  (1 week ago)
 - [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) -  (2 weeks ago)
