@@ -32,13 +32,13 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (today)
-- [ImMPrada/private-events](https://github.com/ImMPrada/private-events) -  (today)
-- [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (today)
+- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (1 day ago)
+- [ImMPrada/private-events](https://github.com/ImMPrada/private-events) -  (1 day ago)
+- [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (1 day ago)
 - [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (1 week ago)
 - [andreslopezlu/02_pricing_component_broders](https://github.com/andreslopezlu/02_pricing_component_broders) -  (1 week ago)
-- [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) -  (2 weeks ago)
-- [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) - This is a first repository for the portfolio. HTML, CSS and collaborative skills are trained. (3 weeks ago)
+- [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) -  (3 weeks ago)
+- [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) - This is a first repository for the portfolio. HTML, CSS and collaborative skills are trained. (4 weeks ago)
 - [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) -  (1 month ago)
 - [ImMPrada/re-former](https://github.com/ImMPrada/re-former) -  (1 month ago)
 - [PradaIng/structuraid-desktop](https://github.com/PradaIng/structuraid-desktop) -  (1 month ago)
@@ -58,11 +58,11 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
-- [Fix/account at create](https://github.com/ImMPrada/multi-step-form-FM/pull/3) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (today)
-- [Feat/add forms styles](https://github.com/ImMPrada/private-events/pull/2) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (today)
-- [Feat/events users](https://github.com/ImMPrada/private-events/pull/1) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (1 day ago)
-- [Feat/concrete cover](https://github.com/PradaIng/structuraid-core/pull/57) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (1 day ago)
-- [Feat/form personal info](https://github.com/ImMPrada/multi-step-form-FM/pull/2) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (6 days ago)
+- [Fix/account at create](https://github.com/ImMPrada/multi-step-form-FM/pull/3) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 day ago)
+- [Feat/add forms styles](https://github.com/ImMPrada/private-events/pull/2) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (1 day ago)
+- [Feat/events users](https://github.com/ImMPrada/private-events/pull/1) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (2 days ago)
+- [Feat/concrete cover](https://github.com/PradaIng/structuraid-core/pull/57) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 days ago)
+- [Feat/form personal info](https://github.com/ImMPrada/multi-step-form-FM/pull/2) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
 - [Add styles](https://github.com/ImMPrada/multi-step-form-FM/pull/1) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
 - [Feat/add user authentication](https://github.com/ImMPrada/members-only/pull/3) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (2 weeks ago)
 - [Feat/initial controllers and views](https://github.com/ImMPrada/members-only/pull/2) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (2 weeks ago)
