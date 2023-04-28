@@ -58,6 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/select plan [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/4) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (today)
 - [add actions](https://github.com/ImMPrada/private-events/pull/4) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (today)
 - [Upgrade models ](https://github.com/ImMPrada/private-events/pull/3) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (1 day ago)
 - [Fix/account at create](https://github.com/ImMPrada/multi-step-form-FM/pull/3) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (2 days ago)
@@ -67,7 +68,6 @@ Experimental zone:
 - [Feat/form personal info](https://github.com/ImMPrada/multi-step-form-FM/pull/2) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
 - [Add styles](https://github.com/ImMPrada/multi-step-form-FM/pull/1) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
 - [Feat/add user authentication](https://github.com/ImMPrada/members-only/pull/3) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (2 weeks ago)
-- [Feat/initial controllers and views](https://github.com/ImMPrada/members-only/pull/2) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
