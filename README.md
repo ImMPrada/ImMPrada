@@ -32,7 +32,7 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/private-events](https://github.com/ImMPrada/private-events) -  (1 day ago)
+- [ImMPrada/private-events](https://github.com/ImMPrada/private-events) -  (today)
 - [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (2 days ago)
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (2 days ago)
 - [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (1 week ago)
@@ -58,6 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [ad seeds](https://github.com/ImMPrada/private-events/pull/5) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (today)
 - [Feat/select plan [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/4) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (today)
 - [add actions](https://github.com/ImMPrada/private-events/pull/4) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (today)
 - [Upgrade models ](https://github.com/ImMPrada/private-events/pull/3) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (1 day ago)
@@ -67,7 +68,6 @@ Experimental zone:
 - [Feat/concrete cover](https://github.com/PradaIng/structuraid-core/pull/57) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (3 days ago)
 - [Feat/form personal info](https://github.com/ImMPrada/multi-step-form-FM/pull/2) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
 - [Add styles](https://github.com/ImMPrada/multi-step-form-FM/pull/1) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
-- [Feat/add user authentication](https://github.com/ImMPrada/members-only/pull/3) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
