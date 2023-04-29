@@ -32,8 +32,8 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
+- [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (1 day ago)
 - [ImMPrada/private-events](https://github.com/ImMPrada/private-events) -  (1 day ago)
-- [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (3 days ago)
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (3 days ago)
 - [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (1 week ago)
 - [andreslopezlu/02_pricing_component_broders](https://github.com/andreslopezlu/02_pricing_component_broders) -  (1 week ago)
@@ -58,6 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [refactor(footing analysis): use coordinates system location](https://github.com/PradaIng/structuraid-core/pull/59) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (today)
 - [add some buttons styles](https://github.com/ImMPrada/private-events/pull/6) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (1 day ago)
 - [ad seeds](https://github.com/ImMPrada/private-events/pull/5) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (1 day ago)
 - [Feat/select plan [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/4) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 day ago)
@@ -67,7 +68,6 @@ Experimental zone:
 - [Feat/add forms styles](https://github.com/ImMPrada/private-events/pull/2) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (3 days ago)
 - [Feat/events users](https://github.com/ImMPrada/private-events/pull/1) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (4 days ago)
 - [Feat/concrete cover](https://github.com/PradaIng/structuraid-core/pull/57) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (4 days ago)
-- [Feat/form personal info](https://github.com/ImMPrada/multi-step-form-FM/pull/2) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
 
 #### 📓 Gists I wrote
 
