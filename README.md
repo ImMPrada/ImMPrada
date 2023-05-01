@@ -58,7 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/suscribe to event [WIP]](https://github.com/ImMPrada/private-events/pull/7) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (1 day ago)
+- [Feat/suscribe to event](https://github.com/ImMPrada/private-events/pull/7) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (1 day ago)
 - [refactor(footing analysis): use coordinates system location](https://github.com/PradaIng/structuraid-core/pull/59) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (2 days ago)
 - [add some buttons styles](https://github.com/ImMPrada/private-events/pull/6) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (3 days ago)
 - [ad seeds](https://github.com/ImMPrada/private-events/pull/5) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (3 days ago)
