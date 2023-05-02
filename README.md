@@ -39,8 +39,8 @@ Experimental zone:
 - [andreslopezlu/02_pricing_component_broders](https://github.com/andreslopezlu/02_pricing_component_broders) -  (2 weeks ago)
 - [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) -  (3 weeks ago)
 - [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) - This is a first repository for the portfolio. HTML, CSS and collaborative skills are trained. (1 month ago)
-- [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) -  (1 month ago)
 - [ImMPrada/re-former](https://github.com/ImMPrada/re-former) -  (1 month ago)
+- [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) -  (1 month ago)
 - [PradaIng/structuraid-desktop](https://github.com/PradaIng/structuraid-desktop) -  (2 months ago)
 
 #### 🌱 My latest projects
@@ -58,6 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/delete created event](https://github.com/ImMPrada/private-events/pull/9) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (today)
 - [Feat/show basic user page](https://github.com/ImMPrada/private-events/pull/8) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (today)
 - [Feat/suscribe to event](https://github.com/ImMPrada/private-events/pull/7) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (2 days ago)
 - [refactor(footing analysis): use coordinates system location](https://github.com/PradaIng/structuraid-core/pull/59) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (3 days ago)
@@ -67,7 +68,6 @@ Experimental zone:
 - [add actions](https://github.com/ImMPrada/private-events/pull/4) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (4 days ago)
 - [Upgrade models ](https://github.com/ImMPrada/private-events/pull/3) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (5 days ago)
 - [Fix/account at create](https://github.com/ImMPrada/multi-step-form-FM/pull/3) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (6 days ago)
-- [Feat/add forms styles](https://github.com/ImMPrada/private-events/pull/2) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (6 days ago)
 
 #### 📓 Gists I wrote
 
