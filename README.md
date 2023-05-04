@@ -58,6 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/sign up for account creating [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/8) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (today)
 - [Feat/add devise [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/7) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (today)
 - [models for users, roles, accounts, account_users [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/6) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 day ago)
 - [Feat/add devise [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/5) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 day ago)
@@ -67,7 +68,6 @@ Experimental zone:
 - [refactor(footing analysis): use coordinates system location](https://github.com/PradaIng/structuraid-core/pull/59) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (5 days ago)
 - [add some buttons styles](https://github.com/ImMPrada/private-events/pull/6) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (6 days ago)
 - [ad seeds](https://github.com/ImMPrada/private-events/pull/5) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (6 days ago)
-- [Feat/select plan [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/4) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (6 days ago)
 
 #### 📓 Gists I wrote
 
