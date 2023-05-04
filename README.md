@@ -58,6 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/add devise [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/7) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (today)
 - [models for users, roles, accounts, account_users [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/6) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 day ago)
 - [Feat/add devise [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/5) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 day ago)
 - [Feat/delete created event](https://github.com/ImMPrada/private-events/pull/9) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (2 days ago)
@@ -67,7 +68,6 @@ Experimental zone:
 - [add some buttons styles](https://github.com/ImMPrada/private-events/pull/6) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (6 days ago)
 - [ad seeds](https://github.com/ImMPrada/private-events/pull/5) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (6 days ago)
 - [Feat/select plan [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/4) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (6 days ago)
-- [add actions](https://github.com/ImMPrada/private-events/pull/4) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (6 days ago)
 
 #### 📓 Gists I wrote
 
