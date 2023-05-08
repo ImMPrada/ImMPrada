@@ -32,7 +32,7 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (5 days ago)
+- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (today)
 - [ImMPrada/private-events](https://github.com/ImMPrada/private-events) -  (6 days ago)
 - [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (1 week ago)
 - [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (2 weeks ago)
@@ -60,7 +60,7 @@ Experimental zone:
 
 - [Feat/sign up for account creating [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/8) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (4 days ago)
 - [Feat/add devise [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/7) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (4 days ago)
-- [models for users, roles, accounts, account_users [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/6) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (5 days ago)
+- [(feat)Add initial models](https://github.com/ImMPrada/multi-step-form-FM/pull/6) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (5 days ago)
 - [Feat/add devise [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/5) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (5 days ago)
 - [Feat/delete created event](https://github.com/ImMPrada/private-events/pull/9) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (6 days ago)
 - [Feat/show basic user page](https://github.com/ImMPrada/private-events/pull/8) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (6 days ago)
