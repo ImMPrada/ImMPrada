@@ -32,7 +32,7 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (today)
+- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (1 day ago)
 - [ImMPrada/private-events](https://github.com/ImMPrada/private-events) -  (1 week ago)
 - [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (1 week ago)
 - [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (3 weeks ago)
@@ -58,10 +58,10 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
-- [Add styles to sign forms[WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/10) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (today)
-- [update onboardings controller](https://github.com/ImMPrada/multi-step-form-FM/pull/9) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (today)
-- [Feat/sign up-in-out for onboarding ](https://github.com/ImMPrada/multi-step-form-FM/pull/8) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (6 days ago)
-- [Feat/add devise [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/7) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (6 days ago)
+- [Add styles to sign forms[WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/10) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 day ago)
+- [update onboardings controller](https://github.com/ImMPrada/multi-step-form-FM/pull/9) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 day ago)
+- [Feat/sign up-in-out for onboarding ](https://github.com/ImMPrada/multi-step-form-FM/pull/8) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
+- [Feat/add devise [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/7) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
 - [(feat)Add initial models](https://github.com/ImMPrada/multi-step-form-FM/pull/6) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
 - [Feat/add devise [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/5) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
 - [Feat/delete created event](https://github.com/ImMPrada/private-events/pull/9) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (1 week ago)
