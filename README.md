@@ -58,6 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/add onboardings index[WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/11) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (today)
 - [Add styles to sign forms[WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/10) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 day ago)
 - [update onboardings controller](https://github.com/ImMPrada/multi-step-form-FM/pull/9) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 day ago)
 - [Feat/sign up-in-out for onboarding ](https://github.com/ImMPrada/multi-step-form-FM/pull/8) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
@@ -67,7 +68,6 @@ Experimental zone:
 - [Feat/delete created event](https://github.com/ImMPrada/private-events/pull/9) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (1 week ago)
 - [Feat/show basic user page](https://github.com/ImMPrada/private-events/pull/8) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (1 week ago)
 - [Feat/suscribe to event](https://github.com/ImMPrada/private-events/pull/7) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (1 week ago)
-- [refactor(footing analysis): use coordinates system location](https://github.com/PradaIng/structuraid-core/pull/59) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (1 week ago)
 
 #### 📓 Gists I wrote
 
