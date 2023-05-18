@@ -58,6 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/add initial models[WIP]](https://github.com/ImMPrada/TOP-flights-booking/pull/1) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (today)
 - [Feat/add onboardings index[WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/11) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
 - [Add styles to sign forms[WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/10) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
 - [update onboardings controller](https://github.com/ImMPrada/multi-step-form-FM/pull/9) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
@@ -67,7 +68,6 @@ Experimental zone:
 - [Feat/add devise [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/5) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (2 weeks ago)
 - [Feat/delete created event](https://github.com/ImMPrada/private-events/pull/9) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (2 weeks ago)
 - [Feat/show basic user page](https://github.com/ImMPrada/private-events/pull/8) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (2 weeks ago)
-- [Feat/suscribe to event](https://github.com/ImMPrada/private-events/pull/7) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
