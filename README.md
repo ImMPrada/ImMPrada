@@ -58,7 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/add initial models[WIP]](https://github.com/ImMPrada/TOP-flights-booking/pull/1) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (1 day ago)
+- [Feat/add initial models](https://github.com/ImMPrada/TOP-flights-booking/pull/1) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (1 day ago)
 - [Feat/add onboardings index[WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/11) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
 - [Add styles to sign forms[WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/10) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
 - [update onboardings controller](https://github.com/ImMPrada/multi-step-form-FM/pull/9) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
