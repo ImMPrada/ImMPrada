@@ -32,7 +32,7 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (2 days ago)
+- [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (today)
 - [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (1 week ago)
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (1 week ago)
 - [ImMPrada/private-events](https://github.com/ImMPrada/private-events) -  (3 weeks ago)
@@ -58,6 +58,7 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
+- [update](https://github.com/ImMPrada/TOP-flights-booking/pull/2) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (today)
 - [plan selection](https://github.com/ImMPrada/multi-step-form-FM/pull/12) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (today)
 - [Feat/add initial models](https://github.com/ImMPrada/TOP-flights-booking/pull/1) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (5 days ago)
 - [Feat/add onboardings index](https://github.com/ImMPrada/multi-step-form-FM/pull/11) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
@@ -67,7 +68,6 @@ Experimental zone:
 - [Feat/add devise [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/7) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (2 weeks ago)
 - [(feat)Add initial models](https://github.com/ImMPrada/multi-step-form-FM/pull/6) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (2 weeks ago)
 - [Feat/add devise [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/5) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (2 weeks ago)
-- [Feat/delete created event](https://github.com/ImMPrada/private-events/pull/9) on [ImMPrada/private-events](https://github.com/ImMPrada/private-events) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
