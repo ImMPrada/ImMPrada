@@ -1,35 +1,5 @@
 ### Hi there 👋
 
-Experimental zone:
-
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=immprada&show_icons=true&theme=apprentice&border_radius=10&include_all_commits=true&count_private=true&hide_title=true" alt="github-readme-streak-stats"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immprada&show_icons=true&theme=apprentice&border_radius=10&include_all_commits=true&count_private=true" alt="github-readme-streak-stats"></a>
-</p>
-
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-  
-  
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=pradaing&repo=structuraid-core&show_icons=true&theme=apprentice&border_radius=10&include_all_commits=true&count_private=true" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=pradaing&repo=structuraid-core&show_icons=true&theme=apprentice&border_radius=10&include_all_commits=true&count_private=true" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=pradaing&repo=structuraid-core&show_icons=true&theme=apprentice&border_radius=10&include_all_commits=true&count_private=true" alt="github-readme-streak-stats"></a>
-  </p>
-
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
-
-
-
-
-
-
 #### 👷 Check out what I'm currently working on
 
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (1 day ago)
