@@ -32,8 +32,8 @@ Experimental zone:
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (today)
-- [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (today)
+- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (1 day ago)
+- [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (1 day ago)
 - [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) -  (1 week ago)
 - [ImMPrada/private-events](https://github.com/ImMPrada/private-events) -  (3 weeks ago)
 - [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (1 month ago)
@@ -58,16 +58,16 @@ Experimental zone:
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/add devise](https://github.com/ImMPrada/TOP-flights-booking/pull/3) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (today)
-- [update](https://github.com/ImMPrada/TOP-flights-booking/pull/2) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (today)
-- [plan selection](https://github.com/ImMPrada/multi-step-form-FM/pull/12) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (today)
-- [Feat/add initial models](https://github.com/ImMPrada/TOP-flights-booking/pull/1) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (5 days ago)
+- [Feat/add devise](https://github.com/ImMPrada/TOP-flights-booking/pull/3) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (1 day ago)
+- [update](https://github.com/ImMPrada/TOP-flights-booking/pull/2) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (1 day ago)
+- [plan selection](https://github.com/ImMPrada/multi-step-form-FM/pull/12) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 day ago)
+- [Feat/add initial models](https://github.com/ImMPrada/TOP-flights-booking/pull/1) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (6 days ago)
 - [Feat/add onboardings index](https://github.com/ImMPrada/multi-step-form-FM/pull/11) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
-- [Add styles to sign forms](https://github.com/ImMPrada/multi-step-form-FM/pull/10) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
-- [update onboardings controller](https://github.com/ImMPrada/multi-step-form-FM/pull/9) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
+- [Add styles to sign forms](https://github.com/ImMPrada/multi-step-form-FM/pull/10) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (2 weeks ago)
+- [update onboardings controller](https://github.com/ImMPrada/multi-step-form-FM/pull/9) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (2 weeks ago)
 - [Feat/sign up-in-out for onboarding ](https://github.com/ImMPrada/multi-step-form-FM/pull/8) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (2 weeks ago)
 - [Feat/add devise [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/7) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (2 weeks ago)
-- [(feat)Add initial models](https://github.com/ImMPrada/multi-step-form-FM/pull/6) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (2 weeks ago)
+- [(feat)Add initial models](https://github.com/ImMPrada/multi-step-form-FM/pull/6) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
