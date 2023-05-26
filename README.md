@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/centric isolated design [WIP]](https://github.com/PradaIng/structuraid-core/pull/81) on [PradaIng/structuraid-core](https://github.com/PradaIng/structuraid-core) (today)
 - [Feat/add flights](https://github.com/ImMPrada/TOP-flights-booking/pull/4) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (2 days ago)
 - [Feat/add devise](https://github.com/ImMPrada/TOP-flights-booking/pull/3) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (3 days ago)
 - [update](https://github.com/ImMPrada/TOP-flights-booking/pull/2) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (3 days ago)
@@ -37,7 +38,6 @@
 - [Add styles to sign forms](https://github.com/ImMPrada/multi-step-form-FM/pull/10) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (2 weeks ago)
 - [update onboardings controller](https://github.com/ImMPrada/multi-step-form-FM/pull/9) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (2 weeks ago)
 - [Feat/sign up-in-out for onboarding ](https://github.com/ImMPrada/multi-step-form-FM/pull/8) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (3 weeks ago)
-- [Feat/add devise [WIP]](https://github.com/ImMPrada/multi-step-form-FM/pull/7) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
