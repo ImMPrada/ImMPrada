@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (4 days ago)
+- [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (today)
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (1 week ago)
 - [ImMPrada/try_prisma](https://github.com/ImMPrada/try_prisma) -  (1 week ago)
 - [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (2 weeks ago)
@@ -11,7 +11,7 @@
 - [andreslopezlu/02_pricing_component_broders](https://github.com/andreslopezlu/02_pricing_component_broders) -  (1 month ago)
 - [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) -  (2 months ago)
 - [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) - This is a first repository for the portfolio. HTML, CSS and collaborative skills are trained. (2 months ago)
-- [ImMPrada/re-former](https://github.com/ImMPrada/re-former) -  (2 months ago)
+- [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) -  (2 months ago)
 
 #### 🌱 My latest projects
 
