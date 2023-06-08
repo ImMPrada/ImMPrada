@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(designer): add step to optimize footing reinforcement](https://github.com/bro-garden/structuraid-core/pull/86) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (today)
+- [feat(optimizations): optimize longitudinal reinforcement area](https://github.com/bro-garden/structuraid-core/pull/86) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (today)
 - [Feat/booking flight [WIP]](https://github.com/ImMPrada/TOP-flights-booking/pull/5) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (1 week ago)
 - [Fix/routes](https://github.com/ImMPrada/multi-step-form-FM/pull/13) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
 - [Feat/centric isolated design [WIP]](https://github.com/bro-garden/structuraid-core/pull/81) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (1 week ago)
