@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (2 days ago)
+- [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (3 days ago)
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (1 week ago)
 - [ImMPrada/try_prisma](https://github.com/ImMPrada/try_prisma) -  (2 weeks ago)
 - [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (3 weeks ago)
@@ -28,15 +28,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/booking flight [WIP]](https://github.com/ImMPrada/TOP-flights-booking/pull/5) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (6 days ago)
+- [Feat/booking flight [WIP]](https://github.com/ImMPrada/TOP-flights-booking/pull/5) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (1 week ago)
 - [Fix/routes](https://github.com/ImMPrada/multi-step-form-FM/pull/13) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
 - [Feat/centric isolated design [WIP]](https://github.com/bro-garden/structuraid-core/pull/81) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (1 week ago)
 - [Feat/add flights](https://github.com/ImMPrada/TOP-flights-booking/pull/4) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (2 weeks ago)
 - [Feat/add devise](https://github.com/ImMPrada/TOP-flights-booking/pull/3) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (2 weeks ago)
 - [update](https://github.com/ImMPrada/TOP-flights-booking/pull/2) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (2 weeks ago)
 - [plan selection](https://github.com/ImMPrada/multi-step-form-FM/pull/12) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (2 weeks ago)
-- [Feat/add initial models](https://github.com/ImMPrada/TOP-flights-booking/pull/1) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (2 weeks ago)
-- [Feat/add onboardings index](https://github.com/ImMPrada/multi-step-form-FM/pull/11) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (3 weeks ago)
+- [Feat/add initial models](https://github.com/ImMPrada/TOP-flights-booking/pull/1) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (3 weeks ago)
+- [Feat/add onboardings index](https://github.com/ImMPrada/multi-step-form-FM/pull/11) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (4 weeks ago)
 - [Add styles to sign forms](https://github.com/ImMPrada/multi-step-form-FM/pull/10) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (4 weeks ago)
 
 #### 📓 Gists I wrote
