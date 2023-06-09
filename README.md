@@ -31,7 +31,7 @@
 - [feat(optimizations): optimize longitudinal reinforcement area](https://github.com/bro-garden/structuraid-core/pull/86) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (1 day ago)
 - [Feat/booking flight [WIP]](https://github.com/ImMPrada/TOP-flights-booking/pull/5) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (1 week ago)
 - [Fix/routes](https://github.com/ImMPrada/multi-step-form-FM/pull/13) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
-- [Feat/centric isolated design [WIP]](https://github.com/bro-garden/structuraid-core/pull/81) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (2 weeks ago)
+- [feat(optimizations):  design steps of centric isolated footings](https://github.com/bro-garden/structuraid-core/pull/81) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (2 weeks ago)
 - [Feat/add flights](https://github.com/ImMPrada/TOP-flights-booking/pull/4) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (2 weeks ago)
 - [Feat/add devise](https://github.com/ImMPrada/TOP-flights-booking/pull/3) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (2 weeks ago)
 - [update](https://github.com/ImMPrada/TOP-flights-booking/pull/2) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (2 weeks ago)
