@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (1 day ago)
-- [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (4 days ago)
+- [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (2 days ago)
+- [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (5 days ago)
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (1 week ago)
 - [ImMPrada/try_prisma](https://github.com/ImMPrada/try_prisma) -  (2 weeks ago)
 - [ImMPrada/private-events](https://github.com/ImMPrada/private-events) -  (1 month ago)
@@ -28,9 +28,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [refactor(design codes): the design code evaluates the bending reinforcement ratio and if is for minimal ratio](https://github.com/bro-garden/structuraid-core/pull/90) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (today)
-- [feat(design codes): add maximum rebar spacing for design codes](https://github.com/bro-garden/structuraid-core/pull/88) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (today)
-- [feat(optimizations): optimize longitudinal reinforcement area](https://github.com/bro-garden/structuraid-core/pull/86) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (1 day ago)
+- [refactor(design codes): the design code evaluates the bending reinforcement ratio and if is for minimal ratio](https://github.com/bro-garden/structuraid-core/pull/90) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (1 day ago)
+- [feat(design codes): add maximum rebar spacing for design codes](https://github.com/bro-garden/structuraid-core/pull/88) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (1 day ago)
+- [feat(optimizations): optimize longitudinal reinforcement area](https://github.com/bro-garden/structuraid-core/pull/86) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (2 days ago)
 - [Feat/booking flight [WIP]](https://github.com/ImMPrada/TOP-flights-booking/pull/5) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (1 week ago)
 - [Fix/routes](https://github.com/ImMPrada/multi-step-form-FM/pull/13) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
 - [feat(optimizations):  design steps of centric isolated footings](https://github.com/bro-garden/structuraid-core/pull/81) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (2 weeks ago)
