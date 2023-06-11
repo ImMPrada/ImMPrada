@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (today)
 - [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (3 days ago)
 - [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (6 days ago)
-- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (1 week ago)
 - [ImMPrada/try_prisma](https://github.com/ImMPrada/try_prisma) -  (2 weeks ago)
 - [ImMPrada/private-events](https://github.com/ImMPrada/private-events) -  (1 month ago)
 - [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (1 month ago)
@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix/steps styles](https://github.com/ImMPrada/multi-step-form-FM/pull/15) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (today)
 - [Feat/select addons](https://github.com/ImMPrada/multi-step-form-FM/pull/14) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (today)
 - [refactor(design codes): the design code evaluates the bending reinforcement ratio and if is for minimal ratio](https://github.com/bro-garden/structuraid-core/pull/90) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (2 days ago)
 - [feat(design codes): add maximum rebar spacing for design codes](https://github.com/bro-garden/structuraid-core/pull/88) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (2 days ago)
@@ -37,7 +38,6 @@
 - [feat(optimizations):  design steps of centric isolated footings](https://github.com/bro-garden/structuraid-core/pull/81) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (2 weeks ago)
 - [Feat/add flights](https://github.com/ImMPrada/TOP-flights-booking/pull/4) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (2 weeks ago)
 - [Feat/add devise](https://github.com/ImMPrada/TOP-flights-booking/pull/3) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (2 weeks ago)
-- [update](https://github.com/ImMPrada/TOP-flights-booking/pull/2) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
