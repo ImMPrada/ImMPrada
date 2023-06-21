@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) -  (today)
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (1 week ago)
 - [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (1 week ago)
 - [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (2 weeks ago)
@@ -11,10 +12,10 @@
 - [andreslopezlu/02_pricing_component_broders](https://github.com/andreslopezlu/02_pricing_component_broders) -  (2 months ago)
 - [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) -  (2 months ago)
 - [andreslopezlu/01_huddle_broders](https://github.com/andreslopezlu/01_huddle_broders) - This is a first repository for the portfolio. HTML, CSS and collaborative skills are trained. (2 months ago)
-- [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) -  (2 months ago)
 
 #### 🌱 My latest projects
 
+- [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) - 
 - [ImMPrada/try_prisma](https://github.com/ImMPrada/try_prisma) - 
 - [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) - 
 - [ImMPrada/private-events](https://github.com/ImMPrada/private-events) - 
@@ -24,7 +25,6 @@
 - [ImMPrada/re-former](https://github.com/ImMPrada/re-former) - 
 - [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) - 
 - [ImMPrada/top_ror_activerecord_warming_up](https://github.com/ImMPrada/top_ror_activerecord_warming_up) - 
-- [ImMPrada/top_ror_basic_deploy](https://github.com/ImMPrada/top_ror_basic_deploy) - 
 
 #### 🔨 My recent Pull Requests
 
