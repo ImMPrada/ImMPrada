@@ -28,6 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/sign in with google](https://github.com/ImMPrada/members-only/pull/5) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (today)
+- [Feat/add sign from google](https://github.com/ImMPrada/members-only/pull/4) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (today)
 - [Fix/steps styles](https://github.com/ImMPrada/multi-step-form-FM/pull/15) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
 - [Feat/select addons](https://github.com/ImMPrada/multi-step-form-FM/pull/14) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (1 week ago)
 - [refactor(design codes): the design code evaluates the bending reinforcement ratio and if is for minimal ratio](https://github.com/bro-garden/structuraid-core/pull/90) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (1 week ago)
@@ -36,8 +38,6 @@
 - [Feat/booking flight](https://github.com/ImMPrada/TOP-flights-booking/pull/5) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (2 weeks ago)
 - [Fix/routes](https://github.com/ImMPrada/multi-step-form-FM/pull/13) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (3 weeks ago)
 - [feat(optimizations):  design steps of centric isolated footings](https://github.com/bro-garden/structuraid-core/pull/81) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (3 weeks ago)
-- [Feat/add flights](https://github.com/ImMPrada/TOP-flights-booking/pull/4) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (4 weeks ago)
-- [Feat/add devise](https://github.com/ImMPrada/TOP-flights-booking/pull/3) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
