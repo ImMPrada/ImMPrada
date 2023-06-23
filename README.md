@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/add GitHub](https://github.com/ImMPrada/practicing_omniauth/pull/2) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (today)
 - [Feat/add google provider](https://github.com/ImMPrada/practicing_omniauth/pull/1) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (1 day ago)
 - [Feat/sign in with google](https://github.com/ImMPrada/members-only/pull/5) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (2 days ago)
 - [Feat/add sign from google](https://github.com/ImMPrada/members-only/pull/4) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (2 days ago)
@@ -37,7 +38,6 @@
 - [feat(design codes): add maximum rebar spacing for design codes](https://github.com/bro-garden/structuraid-core/pull/88) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (2 weeks ago)
 - [feat(optimizations): optimize longitudinal reinforcement area](https://github.com/bro-garden/structuraid-core/pull/86) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (2 weeks ago)
 - [Feat/booking flight](https://github.com/ImMPrada/TOP-flights-booking/pull/5) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (3 weeks ago)
-- [Fix/routes](https://github.com/ImMPrada/multi-step-form-FM/pull/13) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
