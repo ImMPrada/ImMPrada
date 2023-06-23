@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/add google GitHub oauth providers](https://github.com/ImMPrada/practicing_omniauth/pull/3) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (today)
 - [Feat/add GitHub](https://github.com/ImMPrada/practicing_omniauth/pull/2) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (today)
 - [Feat/add google provider](https://github.com/ImMPrada/practicing_omniauth/pull/1) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (1 day ago)
 - [Feat/sign in with google](https://github.com/ImMPrada/members-only/pull/5) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (2 days ago)
@@ -37,7 +38,6 @@
 - [refactor(design codes): the design code evaluates the bending reinforcement ratio and if is for minimal ratio](https://github.com/bro-garden/structuraid-core/pull/90) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (2 weeks ago)
 - [feat(design codes): add maximum rebar spacing for design codes](https://github.com/bro-garden/structuraid-core/pull/88) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (2 weeks ago)
 - [feat(optimizations): optimize longitudinal reinforcement area](https://github.com/bro-garden/structuraid-core/pull/86) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (2 weeks ago)
-- [Feat/booking flight](https://github.com/ImMPrada/TOP-flights-booking/pull/5) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
