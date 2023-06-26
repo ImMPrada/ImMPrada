@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) -  (today)
 - [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (today)
+- [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) -  (today)
 - [ImMPrada/frontendmetor-memory-game](https://github.com/ImMPrada/frontendmetor-memory-game) -  (1 day ago)
 - [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (3 days ago)
 - [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (4 days ago)
