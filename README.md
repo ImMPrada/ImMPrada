@@ -2,19 +2,20 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) -  (today)
+- [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (today)
 - [ImMPrada/frontendmetor-memory-game](https://github.com/ImMPrada/frontendmetor-memory-game) -  (1 day ago)
 - [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (3 days ago)
 - [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (4 days ago)
 - [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) -  (4 days ago)
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (2 weeks ago)
-- [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (3 weeks ago)
 - [ImMPrada/try_prisma](https://github.com/ImMPrada/try_prisma) -  (1 month ago)
 - [ImMPrada/private-events](https://github.com/ImMPrada/private-events) -  (1 month ago)
 - [andreslopezlu/02_pricing_component_broders](https://github.com/andreslopezlu/02_pricing_component_broders) -  (2 months ago)
-- [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) -  (2 months ago)
 
 #### 🌱 My latest projects
 
+- [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) - 
 - [ImMPrada/frontendmetor-memory-game](https://github.com/ImMPrada/frontendmetor-memory-game) - 
 - [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) - 
 - [ImMPrada/try_prisma](https://github.com/ImMPrada/try_prisma) - 
@@ -24,7 +25,6 @@
 - [ImMPrada/members-only](https://github.com/ImMPrada/members-only) - 
 - [ImMPrada/todo_llist_ror](https://github.com/ImMPrada/todo_llist_ror) - 
 - [ImMPrada/re-former](https://github.com/ImMPrada/re-former) - 
-- [ImMPrada/top_ror_mini_reddit](https://github.com/ImMPrada/top_ror_mini_reddit) - 
 
 #### 🔨 My recent Pull Requests
 
