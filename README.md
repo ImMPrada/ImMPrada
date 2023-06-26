@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (today)
 - [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) -  (today)
+- [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (today)
 - [ImMPrada/frontendmetor-memory-game](https://github.com/ImMPrada/frontendmetor-memory-game) -  (1 day ago)
 - [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (3 days ago)
 - [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (4 days ago)
@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/flickr oauth](https://github.com/ImMPrada/TOP-flickr/pull/1) on [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) (today)
 - [Feat/add google GitHub oauth providers](https://github.com/ImMPrada/practicing_omniauth/pull/3) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (3 days ago)
 - [Feat/add GitHub](https://github.com/ImMPrada/practicing_omniauth/pull/2) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (3 days ago)
 - [Feat/add google provider](https://github.com/ImMPrada/practicing_omniauth/pull/1) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (4 days ago)
@@ -37,7 +38,6 @@
 - [Feat/select addons](https://github.com/ImMPrada/multi-step-form-FM/pull/14) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (2 weeks ago)
 - [refactor(design codes): the design code evaluates the bending reinforcement ratio and if is for minimal ratio](https://github.com/bro-garden/structuraid-core/pull/90) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (2 weeks ago)
 - [feat(design codes): add maximum rebar spacing for design codes](https://github.com/bro-garden/structuraid-core/pull/88) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (2 weeks ago)
-- [feat(optimizations): optimize longitudinal reinforcement area](https://github.com/bro-garden/structuraid-core/pull/86) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
