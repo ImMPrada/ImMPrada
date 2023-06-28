@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat booking confirmation mail](https://github.com/ImMPrada/TOP-flights-booking/pull/6) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (today)
 - [Feat/add user registration and session](https://github.com/ImMPrada/frontendmentor-games-api/pull/1) on [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) (1 day ago)
 - [Feat/show photos](https://github.com/ImMPrada/TOP-flickr/pull/2) on [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) (2 days ago)
 - [Feat/flickr oauth](https://github.com/ImMPrada/TOP-flickr/pull/1) on [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) (2 days ago)
@@ -37,7 +38,6 @@
 - [Feat/sign in with google](https://github.com/ImMPrada/members-only/pull/5) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (1 week ago)
 - [Feat/add sign from google](https://github.com/ImMPrada/members-only/pull/4) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (1 week ago)
 - [Fix/steps styles](https://github.com/ImMPrada/multi-step-form-FM/pull/15) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (2 weeks ago)
-- [Feat/select addons](https://github.com/ImMPrada/multi-step-form-FM/pull/14) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
