@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) -  (1 day ago)
-- [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) -  (2 days ago)
-- [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (2 days ago)
-- [ImMPrada/frontendmetor-memory-game](https://github.com/ImMPrada/frontendmetor-memory-game) -  (3 days ago)
-- [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (5 days ago)
-- [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) -  (6 days ago)
-- [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (6 days ago)
+- [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) -  (2 days ago)
+- [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) -  (3 days ago)
+- [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (3 days ago)
+- [ImMPrada/frontendmetor-memory-game](https://github.com/ImMPrada/frontendmetor-memory-game) -  (4 days ago)
+- [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (6 days ago)
+- [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) -  (1 week ago)
+- [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (1 week ago)
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (2 weeks ago)
 - [ImMPrada/try_prisma](https://github.com/ImMPrada/try_prisma) -  (1 month ago)
 - [ImMPrada/private-events](https://github.com/ImMPrada/private-events) -  (1 month ago)
@@ -28,13 +28,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Feat booking confirmation mail](https://github.com/ImMPrada/TOP-flights-booking/pull/6) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (today)
-- [Feat/add user registration and session](https://github.com/ImMPrada/frontendmentor-games-api/pull/1) on [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) (1 day ago)
-- [Feat/show photos](https://github.com/ImMPrada/TOP-flickr/pull/2) on [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) (2 days ago)
-- [Feat/flickr oauth](https://github.com/ImMPrada/TOP-flickr/pull/1) on [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) (2 days ago)
-- [Feat/add google GitHub oauth providers](https://github.com/ImMPrada/practicing_omniauth/pull/3) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (5 days ago)
-- [Feat/add GitHub](https://github.com/ImMPrada/practicing_omniauth/pull/2) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (5 days ago)
-- [Feat/add google provider](https://github.com/ImMPrada/practicing_omniauth/pull/1) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (6 days ago)
+- [Feat booking confirmation mail](https://github.com/ImMPrada/TOP-flights-booking/pull/6) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (1 day ago)
+- [Feat/add user registration and session](https://github.com/ImMPrada/frontendmentor-games-api/pull/1) on [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) (2 days ago)
+- [Feat/show photos](https://github.com/ImMPrada/TOP-flickr/pull/2) on [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) (3 days ago)
+- [Feat/flickr oauth](https://github.com/ImMPrada/TOP-flickr/pull/1) on [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) (3 days ago)
+- [Feat/add google GitHub oauth providers](https://github.com/ImMPrada/practicing_omniauth/pull/3) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (6 days ago)
+- [Feat/add GitHub](https://github.com/ImMPrada/practicing_omniauth/pull/2) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (6 days ago)
+- [Feat/add google provider](https://github.com/ImMPrada/practicing_omniauth/pull/1) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (1 week ago)
 - [Feat/sign in with google](https://github.com/ImMPrada/members-only/pull/5) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (1 week ago)
 - [Feat/add sign from google](https://github.com/ImMPrada/members-only/pull/4) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (1 week ago)
 - [Fix/steps styles](https://github.com/ImMPrada/multi-step-form-FM/pull/15) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (2 weeks ago)
