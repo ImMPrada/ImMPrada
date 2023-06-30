@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(design codes): decision for add or check reinforcement step](https://github.com/bro-garden/structuraid-core/pull/98) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (today)
 - [Feat booking confirmation mail](https://github.com/ImMPrada/TOP-flights-booking/pull/6) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (2 days ago)
 - [Feat/add user registration and session](https://github.com/ImMPrada/frontendmentor-games-api/pull/1) on [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) (3 days ago)
 - [Feat/show photos](https://github.com/ImMPrada/TOP-flickr/pull/2) on [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) (4 days ago)
@@ -37,7 +38,6 @@
 - [Feat/add google provider](https://github.com/ImMPrada/practicing_omniauth/pull/1) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (1 week ago)
 - [Feat/sign in with google](https://github.com/ImMPrada/members-only/pull/5) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (1 week ago)
 - [Feat/add sign from google](https://github.com/ImMPrada/members-only/pull/4) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (1 week ago)
-- [Fix/steps styles](https://github.com/ImMPrada/multi-step-form-FM/pull/15) on [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
