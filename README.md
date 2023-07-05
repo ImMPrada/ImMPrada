@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/add work space](https://github.com/ImMPrada/chat-in-rails/pull/2) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (today)
 - [feat(devise for User): add devise, and User model](https://github.com/ImMPrada/chat-in-rails/pull/1) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 day ago)
 - [feat(design codes): decision for add or check reinforcement step](https://github.com/bro-garden/structuraid-core/pull/98) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (5 days ago)
 - [Feat booking confirmation mail](https://github.com/ImMPrada/TOP-flights-booking/pull/6) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (1 week ago)
@@ -37,7 +38,6 @@
 - [Feat/add google GitHub oauth providers](https://github.com/ImMPrada/practicing_omniauth/pull/3) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (1 week ago)
 - [Feat/add GitHub](https://github.com/ImMPrada/practicing_omniauth/pull/2) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (1 week ago)
 - [Feat/add google provider](https://github.com/ImMPrada/practicing_omniauth/pull/1) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (1 week ago)
-- [Feat/sign in with google](https://github.com/ImMPrada/members-only/pull/5) on [ImMPrada/members-only](https://github.com/ImMPrada/members-only) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
