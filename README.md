@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/add channels](https://github.com/ImMPrada/chat-in-rails/pull/4) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (today)
 - [Chore/add gitbhub workflows](https://github.com/ImMPrada/chat-in-rails/pull/3) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (today)
 - [Feat(add workspace): create a workspace](https://github.com/ImMPrada/chat-in-rails/pull/2) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 day ago)
 - [feat(devise for User): add devise, and User model](https://github.com/ImMPrada/chat-in-rails/pull/1) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 days ago)
@@ -37,7 +38,6 @@
 - [Feat/show photos](https://github.com/ImMPrada/TOP-flickr/pull/2) on [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) (1 week ago)
 - [Feat/flickr oauth](https://github.com/ImMPrada/TOP-flickr/pull/1) on [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) (1 week ago)
 - [Feat/add google GitHub oauth providers](https://github.com/ImMPrada/practicing_omniauth/pull/3) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (1 week ago)
-- [Feat/add GitHub](https://github.com/ImMPrada/practicing_omniauth/pull/2) on [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) (1 week ago)
 
 #### 📓 Gists I wrote
 
