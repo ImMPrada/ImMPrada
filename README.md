@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(add message model):](https://github.com/ImMPrada/chat-in-rails/pull/5) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 days ago)
+- [feat(model): add Message model](https://github.com/ImMPrada/chat-in-rails/pull/5) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 days ago)
 - [Feat/add channels](https://github.com/ImMPrada/chat-in-rails/pull/4) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
 - [Chore/add gitbhub workflows](https://github.com/ImMPrada/chat-in-rails/pull/3) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
 - [Feat(add workspace): create a workspace](https://github.com/ImMPrada/chat-in-rails/pull/2) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
