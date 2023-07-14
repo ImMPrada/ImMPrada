@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(sidebar mockup):](https://github.com/ImMPrada/chat-in-rails/pull/6) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (today)
 - [feat(model): add Message model](https://github.com/ImMPrada/chat-in-rails/pull/5) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 days ago)
 - [Feat/add channels](https://github.com/ImMPrada/chat-in-rails/pull/4) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
 - [Chore/add gitbhub workflows](https://github.com/ImMPrada/chat-in-rails/pull/3) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
@@ -37,7 +38,6 @@
 - [Feat booking confirmation mail](https://github.com/ImMPrada/TOP-flights-booking/pull/6) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (2 weeks ago)
 - [Feat/add user registration and session](https://github.com/ImMPrada/frontendmentor-games-api/pull/1) on [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) (2 weeks ago)
 - [Feat/show photos](https://github.com/ImMPrada/TOP-flickr/pull/2) on [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) (2 weeks ago)
-- [Feat/flickr oauth](https://github.com/ImMPrada/TOP-flickr/pull/1) on [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
