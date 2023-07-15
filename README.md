@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (1 day ago)
+- [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (2 days ago)
 - [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) -  (1 week ago)
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (1 week ago)
 - [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (2 weeks ago)
@@ -28,8 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(sidebar mockup):](https://github.com/ImMPrada/chat-in-rails/pull/6) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (today)
-- [feat(model): add Message model](https://github.com/ImMPrada/chat-in-rails/pull/5) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 days ago)
+- [feat(sidebar mockup):](https://github.com/ImMPrada/chat-in-rails/pull/6) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 day ago)
+- [feat(model): add Message model](https://github.com/ImMPrada/chat-in-rails/pull/5) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (4 days ago)
 - [Feat/add channels](https://github.com/ImMPrada/chat-in-rails/pull/4) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
 - [Chore/add gitbhub workflows](https://github.com/ImMPrada/chat-in-rails/pull/3) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
 - [Feat(add workspace): create a workspace](https://github.com/ImMPrada/chat-in-rails/pull/2) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
