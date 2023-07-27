@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/add user to wrokspace or channel](https://github.com/ImMPrada/chat-in-rails/pull/9) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (today)
 - [Feat add responsive and interaction](https://github.com/ImMPrada/chat-in-rails/pull/8) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 day ago)
 - [Feat(real-time messaging): add ActionCable](https://github.com/ImMPrada/chat-in-rails/pull/7) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
 - [feat(direct messages): Enables users to write direct messages](https://github.com/ImMPrada/chat-in-rails/pull/6) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
@@ -37,7 +38,6 @@
 - [Feat(add workspace): create a workspace](https://github.com/ImMPrada/chat-in-rails/pull/2) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 weeks ago)
 - [feat(devise for User): add devise, and User model](https://github.com/ImMPrada/chat-in-rails/pull/1) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 weeks ago)
 - [feat(design codes): decision for add or check reinforcement step](https://github.com/bro-garden/structuraid-core/pull/98) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (3 weeks ago)
-- [Feat booking confirmation mail](https://github.com/ImMPrada/TOP-flights-booking/pull/6) on [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
