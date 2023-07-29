@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (1 day ago)
+- [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (today)
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (3 weeks ago)
 - [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) -  (3 weeks ago)
 - [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (1 month ago)
@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/add user to channel](https://github.com/ImMPrada/chat-in-rails/pull/10) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (today)
 - [Feat(invitations): Generate an invitation to workspace, and make the link user-workspace](https://github.com/ImMPrada/chat-in-rails/pull/9) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 days ago)
 - [Feat add responsive and interaction](https://github.com/ImMPrada/chat-in-rails/pull/8) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 days ago)
 - [Feat(real-time messaging): add ActionCable](https://github.com/ImMPrada/chat-in-rails/pull/7) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
@@ -37,7 +38,6 @@
 - [Chore/add gitbhub workflows](https://github.com/ImMPrada/chat-in-rails/pull/3) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 weeks ago)
 - [Feat(add workspace): create a workspace](https://github.com/ImMPrada/chat-in-rails/pull/2) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 weeks ago)
 - [feat(devise for User): add devise, and User model](https://github.com/ImMPrada/chat-in-rails/pull/1) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 weeks ago)
-- [feat(design codes): decision for add or check reinforcement step](https://github.com/bro-garden/structuraid-core/pull/98) on [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
