@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/enable responsive interaction](https://github.com/ImMPrada/chat-in-rails/pull/11) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (today)
 - [Feat/add user to channel](https://github.com/ImMPrada/chat-in-rails/pull/10) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 day ago)
 - [Feat(invitations): Generate an invitation to workspace, and make the link user-workspace](https://github.com/ImMPrada/chat-in-rails/pull/9) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 days ago)
 - [Feat add responsive and interaction](https://github.com/ImMPrada/chat-in-rails/pull/8) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (4 days ago)
@@ -37,7 +38,6 @@
 - [Feat/add channels](https://github.com/ImMPrada/chat-in-rails/pull/4) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 weeks ago)
 - [Chore/add gitbhub workflows](https://github.com/ImMPrada/chat-in-rails/pull/3) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 weeks ago)
 - [Feat(add workspace): create a workspace](https://github.com/ImMPrada/chat-in-rails/pull/2) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 weeks ago)
-- [feat(devise for User): add devise, and User model](https://github.com/ImMPrada/chat-in-rails/pull/1) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
