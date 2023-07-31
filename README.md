@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (today)
-- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (3 weeks ago)
-- [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) -  (3 weeks ago)
+- [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (1 day ago)
+- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (4 weeks ago)
+- [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) -  (4 weeks ago)
 - [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (1 month ago)
 - [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (1 month ago)
 - [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) -  (1 month ago)
@@ -28,10 +28,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/enable responsive interaction](https://github.com/ImMPrada/chat-in-rails/pull/11) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (today)
-- [Feat/add user to channel](https://github.com/ImMPrada/chat-in-rails/pull/10) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 day ago)
-- [Feat(invitations): Generate an invitation to workspace, and make the link user-workspace](https://github.com/ImMPrada/chat-in-rails/pull/9) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 days ago)
-- [Feat add responsive and interaction](https://github.com/ImMPrada/chat-in-rails/pull/8) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (4 days ago)
+- [Feat/enable responsive interaction](https://github.com/ImMPrada/chat-in-rails/pull/11) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 day ago)
+- [Feat/add user to channel](https://github.com/ImMPrada/chat-in-rails/pull/10) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 days ago)
+- [Feat(invitations): Generate an invitation to workspace, and make the link user-workspace](https://github.com/ImMPrada/chat-in-rails/pull/9) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (4 days ago)
+- [Feat add responsive and interaction](https://github.com/ImMPrada/chat-in-rails/pull/8) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (5 days ago)
 - [Feat(real-time messaging): add ActionCable](https://github.com/ImMPrada/chat-in-rails/pull/7) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
 - [feat(direct messages): Enables users to write direct messages](https://github.com/ImMPrada/chat-in-rails/pull/6) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 weeks ago)
 - [feat(model): add Message model](https://github.com/ImMPrada/chat-in-rails/pull/5) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 weeks ago)
