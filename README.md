@@ -29,7 +29,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Feat/enable responsive interaction](https://github.com/ImMPrada/chat-in-rails/pull/11) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (5 days ago)
-- [Feat/add user to channel](https://github.com/ImMPrada/chat-in-rails/pull/10) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (6 days ago)
+- [Feat(add user/channel): enables adding or removing of a user or a channel](https://github.com/ImMPrada/chat-in-rails/pull/10) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (6 days ago)
 - [Feat(invitations): Generate an invitation to workspace, and make the link user-workspace](https://github.com/ImMPrada/chat-in-rails/pull/9) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
 - [Feat add responsive and interaction](https://github.com/ImMPrada/chat-in-rails/pull/8) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
 - [Feat(real-time messaging): add ActionCable](https://github.com/ImMPrada/chat-in-rails/pull/7) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 weeks ago)
