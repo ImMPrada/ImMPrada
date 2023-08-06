@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/todolists endpoints](https://github.com/andreslopezlu/todo_api/pull/2) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (today)
 - [Feat/signup login logout](https://github.com/andreslopezlu/todo_api/pull/1) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (today)
 - [Feat/enable responsive interaction](https://github.com/ImMPrada/chat-in-rails/pull/11) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
 - [Feat(add user/channel): enables adding or removing of a user or a channel](https://github.com/ImMPrada/chat-in-rails/pull/10) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
@@ -37,7 +38,6 @@
 - [feat(direct messages): Enables users to write direct messages](https://github.com/ImMPrada/chat-in-rails/pull/6) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 weeks ago)
 - [feat(model): add Message model](https://github.com/ImMPrada/chat-in-rails/pull/5) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 weeks ago)
 - [Feat/add channels](https://github.com/ImMPrada/chat-in-rails/pull/4) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 month ago)
-- [Chore/add gitbhub workflows](https://github.com/ImMPrada/chat-in-rails/pull/3) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 month ago)
 
 #### 📓 Gists I wrote
 
