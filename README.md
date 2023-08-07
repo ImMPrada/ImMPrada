@@ -28,6 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Api v1](https://github.com/andreslopezlu/todo_api/pull/4) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (today)
+- [Feat/items](https://github.com/andreslopezlu/todo_api/pull/3) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (today)
 - [Feat/todolists endpoints](https://github.com/andreslopezlu/todo_api/pull/2) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (1 day ago)
 - [Feat/signup login logout](https://github.com/andreslopezlu/todo_api/pull/1) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (1 day ago)
 - [Feat/enable responsive interaction](https://github.com/ImMPrada/chat-in-rails/pull/11) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
@@ -36,8 +38,6 @@
 - [Feat add responsive and interaction](https://github.com/ImMPrada/chat-in-rails/pull/8) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
 - [Feat(real-time messaging): add ActionCable](https://github.com/ImMPrada/chat-in-rails/pull/7) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 weeks ago)
 - [feat(direct messages): Enables users to write direct messages](https://github.com/ImMPrada/chat-in-rails/pull/6) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 weeks ago)
-- [feat(model): add Message model](https://github.com/ImMPrada/chat-in-rails/pull/5) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 weeks ago)
-- [Feat/add channels](https://github.com/ImMPrada/chat-in-rails/pull/4) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 month ago)
 
 #### 📓 Gists I wrote
 
