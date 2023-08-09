@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) -  (3 days ago)
+- [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) -  (4 days ago)
 - [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (1 week ago)
 - [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (1 week ago)
 - [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) -  (1 month ago)
@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/items](https://github.com/andreslopezlu/todo_api/pull/5) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (1 day ago)
-- [Api v1](https://github.com/andreslopezlu/todo_api/pull/4) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (1 day ago)
-- [Feat/items](https://github.com/andreslopezlu/todo_api/pull/3) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (1 day ago)
-- [Feat/todolists endpoints](https://github.com/andreslopezlu/todo_api/pull/2) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (2 days ago)
-- [Feat/signup login logout](https://github.com/andreslopezlu/todo_api/pull/1) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (2 days ago)
+- [Feat/items](https://github.com/andreslopezlu/todo_api/pull/5) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (2 days ago)
+- [Api v1](https://github.com/andreslopezlu/todo_api/pull/4) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (2 days ago)
+- [Feat/items](https://github.com/andreslopezlu/todo_api/pull/3) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (2 days ago)
+- [Feat/todolists endpoints](https://github.com/andreslopezlu/todo_api/pull/2) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (3 days ago)
+- [Feat/signup login logout](https://github.com/andreslopezlu/todo_api/pull/1) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (3 days ago)
 - [Feat/enable responsive interaction](https://github.com/ImMPrada/chat-in-rails/pull/11) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
 - [Feat(add user/channel): enables adding or removing of a user or a channel](https://github.com/ImMPrada/chat-in-rails/pull/10) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
 - [Feat(invitations): Generate an invitation to workspace, and make the link user-workspace](https://github.com/ImMPrada/chat-in-rails/pull/9) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
-- [Feat add responsive and interaction](https://github.com/ImMPrada/chat-in-rails/pull/8) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (1 week ago)
-- [Feat(real-time messaging): add ActionCable](https://github.com/ImMPrada/chat-in-rails/pull/7) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 weeks ago)
+- [Feat add responsive and interaction](https://github.com/ImMPrada/chat-in-rails/pull/8) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 weeks ago)
+- [Feat(real-time messaging): add ActionCable](https://github.com/ImMPrada/chat-in-rails/pull/7) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
