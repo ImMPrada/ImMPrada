@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) -  (1 day ago)
 - [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (3 days ago)
 - [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) -  (6 days ago)
 - [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (1 week ago)
@@ -10,7 +11,6 @@
 - [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (1 month ago)
 - [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) -  (1 month ago)
 - [ImMPrada/frontendmetor-games](https://github.com/ImMPrada/frontendmetor-games) -  (1 month ago)
-- [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (1 month ago)
 - [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) -  (1 month ago)
 
 #### 🌱 My latest projects
