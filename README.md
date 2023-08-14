@@ -15,7 +15,6 @@
 
 #### 🌱 My latest projects
 
-- [ImMPrada/my_accommands](https://github.com/ImMPrada/my_accommands) - 
 - [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) - 
 - [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) - 
 - [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) - 
@@ -25,10 +24,10 @@
 - [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) - 
 - [ImMPrada/private-events](https://github.com/ImMPrada/private-events) - 
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io
+- [ImMPrada/members-only](https://github.com/ImMPrada/members-only) - 
 
 #### 🔨 My recent Pull Requests
 
-- [adding &#39;hello_excel&#39; command](https://github.com/ImMPrada/my_accommands/pull/1) on [ImMPrada/my_accommands](https://github.com/ImMPrada/my_accommands) (3 days ago)
 - [working changes](https://github.com/andreslopezlu/todo_front/pull/6) on [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) (3 days ago)
 - [Feat/items](https://github.com/andreslopezlu/todo_api/pull/5) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (1 week ago)
 - [Api v1](https://github.com/andreslopezlu/todo_api/pull/4) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (1 week ago)
@@ -38,6 +37,7 @@
 - [Feat/enable responsive interaction](https://github.com/ImMPrada/chat-in-rails/pull/11) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 weeks ago)
 - [Feat(add user/channel): enables adding or removing of a user or a channel](https://github.com/ImMPrada/chat-in-rails/pull/10) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 weeks ago)
 - [Feat(invitations): Generate an invitation to workspace, and make the link user-workspace](https://github.com/ImMPrada/chat-in-rails/pull/9) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 weeks ago)
+- [Feat add responsive and interaction](https://github.com/ImMPrada/chat-in-rails/pull/8) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
