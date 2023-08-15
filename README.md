@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor comp css](https://github.com/andreslopezlu/todo_front/pull/7) on [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) (today)
 - [working changes](https://github.com/andreslopezlu/todo_front/pull/6) on [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) (4 days ago)
 - [Feat/items](https://github.com/andreslopezlu/todo_api/pull/5) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (1 week ago)
 - [Api v1](https://github.com/andreslopezlu/todo_api/pull/4) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (1 week ago)
@@ -37,7 +38,6 @@
 - [Feat/enable responsive interaction](https://github.com/ImMPrada/chat-in-rails/pull/11) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 weeks ago)
 - [Feat(add user/channel): enables adding or removing of a user or a channel](https://github.com/ImMPrada/chat-in-rails/pull/10) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 weeks ago)
 - [Feat(invitations): Generate an invitation to workspace, and make the link user-workspace](https://github.com/ImMPrada/chat-in-rails/pull/9) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 weeks ago)
-- [Feat add responsive and interaction](https://github.com/ImMPrada/chat-in-rails/pull/8) on [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
