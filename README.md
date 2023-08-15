@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) -  (4 days ago)
-- [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (6 days ago)
+- [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) -  (5 days ago)
+- [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (1 week ago)
 - [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) -  (1 week ago)
-- [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (1 week ago)
+- [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (2 weeks ago)
 - [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) -  (1 month ago)
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (1 month ago)
 - [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [working changes](https://github.com/andreslopezlu/todo_front/pull/6) on [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) (3 days ago)
+- [working changes](https://github.com/andreslopezlu/todo_front/pull/6) on [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) (4 days ago)
 - [Feat/items](https://github.com/andreslopezlu/todo_api/pull/5) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (1 week ago)
 - [Api v1](https://github.com/andreslopezlu/todo_api/pull/4) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (1 week ago)
 - [Feat/items](https://github.com/andreslopezlu/todo_api/pull/3) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (1 week ago)
