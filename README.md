@@ -28,8 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor comp css](https://github.com/andreslopezlu/todo_front/pull/7) on [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) (2 days ago)
-- [working changes](https://github.com/andreslopezlu/todo_front/pull/6) on [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) (6 days ago)
+- [Refactor comp css](https://github.com/andreslopezlu/todo_front/pull/7) on [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) (3 days ago)
+- [working changes](https://github.com/andreslopezlu/todo_front/pull/6) on [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) (1 week ago)
 - [Feat/items](https://github.com/andreslopezlu/todo_api/pull/5) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (1 week ago)
 - [Api v1](https://github.com/andreslopezlu/todo_api/pull/4) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (1 week ago)
 - [Feat/items](https://github.com/andreslopezlu/todo_api/pull/3) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (1 week ago)
