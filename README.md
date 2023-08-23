@@ -34,7 +34,6 @@
 - [Api v1](https://github.com/andreslopezlu/todo_api/pull/4) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (2 weeks ago)
 - [Feat/items](https://github.com/andreslopezlu/todo_api/pull/3) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (2 weeks ago)
 - [Feat/todolists endpoints](https://github.com/andreslopezlu/todo_api/pull/2) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (2 weeks ago)
-- [Feat/signup login logout](https://github.com/andreslopezlu/todo_api/pull/1) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
