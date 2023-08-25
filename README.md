@@ -9,7 +9,7 @@
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (1 month ago)
 - [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) -  (1 month ago)
 - [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (1 month ago)
-- [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) -  (1 month ago)
+- [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) -  (2 months ago)
 - [ImMPrada/frontendmetor-games](https://github.com/ImMPrada/frontendmetor-games) -  (2 months ago)
 - [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) -  (2 months ago)
 
@@ -29,7 +29,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Refactor comp css](https://github.com/andreslopezlu/todo_front/pull/7) on [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) (1 week ago)
-- [working changes](https://github.com/andreslopezlu/todo_front/pull/6) on [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) (1 week ago)
+- [working changes](https://github.com/andreslopezlu/todo_front/pull/6) on [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) (2 weeks ago)
 - [Feat/items](https://github.com/andreslopezlu/todo_api/pull/5) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (2 weeks ago)
 - [Api v1](https://github.com/andreslopezlu/todo_api/pull/4) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (2 weeks ago)
 - [Feat/items](https://github.com/andreslopezlu/todo_api/pull/3) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (2 weeks ago)
