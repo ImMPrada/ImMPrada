@@ -11,7 +11,7 @@
 - [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (2 months ago)
 - [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) -  (2 months ago)
 - [ImMPrada/frontendmetor-games](https://github.com/ImMPrada/frontendmetor-games) -  (2 months ago)
-- [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) -  (2 months ago)
+- [ImMPrada/members-only](https://github.com/ImMPrada/members-only) -  (2 months ago)
 
 #### 🌱 My latest projects
 
