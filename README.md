@@ -29,8 +29,6 @@
 #### 🔨 My recent Pull Requests
 
 - [Refactor comp css](https://github.com/andreslopezlu/todo_front/pull/7) on [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) (2 weeks ago)
-- [working changes](https://github.com/andreslopezlu/todo_front/pull/6) on [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) (2 weeks ago)
-- [Feat/items](https://github.com/andreslopezlu/todo_api/pull/5) on [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
