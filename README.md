@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) -  (4 weeks ago)
+- [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) -  (1 month ago)
 - [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (1 month ago)
 - [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) -  (1 month ago)
 - [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (1 month ago)
