@@ -10,7 +10,7 @@
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (2 months ago)
 - [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (2 months ago)
 - [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) -  (2 months ago)
-- [ImMPrada/frontendmetor-games](https://github.com/ImMPrada/frontendmetor-games) -  (2 months ago)
+- [ImMPrada/frontendmetor-games](https://github.com/ImMPrada/frontendmetor-games) -  (3 months ago)
 - [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) -  (3 months ago)
 
 #### 🌱 My latest projects
