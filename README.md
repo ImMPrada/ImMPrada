@@ -5,7 +5,7 @@
 - [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) -  (1 month ago)
 - [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (1 month ago)
 - [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) -  (1 month ago)
-- [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (1 month ago)
+- [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (2 months ago)
 - [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) -  (2 months ago)
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (2 months ago)
 - [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (3 months ago)
