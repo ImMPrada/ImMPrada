@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) -  (1 week ago)
+- [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) -  (today)
 - [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) -  (3 months ago)
 - [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (3 months ago)
 - [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) -  (3 months ago)
@@ -28,7 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Feat: basic components [WIP]](https://github.com/ImMPrada/coffeeroasters-app/pull/1) on [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) (1 week ago)
+- [Feat add basic components](https://github.com/ImMPrada/coffeeroasters-app/pull/2) on [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) (today)
+- [Feat: basic components](https://github.com/ImMPrada/coffeeroasters-app/pull/1) on [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) (1 week ago)
 
 #### 📓 Gists I wrote
 
