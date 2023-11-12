@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add Home [WIP]](https://github.com/ImMPrada/coffeeroasters-app/pull/3) on [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) (2 days ago)
+- [add Home](https://github.com/ImMPrada/coffeeroasters-app/pull/3) on [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) (2 days ago)
 - [Feat add basic components](https://github.com/ImMPrada/coffeeroasters-app/pull/2) on [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) (2 days ago)
 - [Feat: basic components](https://github.com/ImMPrada/coffeeroasters-app/pull/1) on [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) (1 week ago)
 
