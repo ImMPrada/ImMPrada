@@ -30,7 +30,6 @@
 
 - [Feat add basic models [WIP]](https://github.com/ImMPrada/coffeeroasters-api/pull/1) on [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) (2 days ago)
 - [add Home](https://github.com/ImMPrada/coffeeroasters-app/pull/3) on [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) (1 week ago)
-- [Feat add basic components](https://github.com/ImMPrada/coffeeroasters-app/pull/2) on [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) (1 week ago)
 
 #### 📓 Gists I wrote
 
