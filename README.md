@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) -  (2 days ago)
+- [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) -  (3 days ago)
 - [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) -  (1 week ago)
 - [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) -  (3 months ago)
 - [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (3 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Feat add basic models [WIP]](https://github.com/ImMPrada/coffeeroasters-api/pull/1) on [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) (1 day ago)
+- [Feat add basic models [WIP]](https://github.com/ImMPrada/coffeeroasters-api/pull/1) on [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) (2 days ago)
 - [add Home](https://github.com/ImMPrada/coffeeroasters-app/pull/3) on [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) (1 week ago)
 - [Feat add basic components](https://github.com/ImMPrada/coffeeroasters-app/pull/2) on [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) (1 week ago)
 
