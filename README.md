@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) -  (3 days ago)
+- [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) -  (4 days ago)
 - [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) -  (1 week ago)
 - [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) -  (3 months ago)
 - [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (3 months ago)
@@ -11,7 +11,7 @@
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (4 months ago)
 - [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) -  (4 months ago)
 - [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (4 months ago)
-- [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) -  (4 months ago)
+- [ImMPrada/TOP-flickr](https://github.com/ImMPrada/TOP-flickr) -  (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Feat add basic models [WIP]](https://github.com/ImMPrada/coffeeroasters-api/pull/1) on [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) (2 days ago)
+- [Feat add basic models [WIP]](https://github.com/ImMPrada/coffeeroasters-api/pull/1) on [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) (3 days ago)
 - [add Home](https://github.com/ImMPrada/coffeeroasters-app/pull/3) on [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) (1 week ago)
 
 #### 📓 Gists I wrote
