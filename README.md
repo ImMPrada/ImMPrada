@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Feat add basic models [WIP]](https://github.com/ImMPrada/coffeeroasters-api/pull/1) on [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) (6 days ago)
+- [Feat add basic models [WIP]](https://github.com/ImMPrada/coffeeroasters-api/pull/1) on [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) (1 week ago)
 
 #### 📓 Gists I wrote
 
