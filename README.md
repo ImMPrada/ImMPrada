@@ -7,7 +7,7 @@
 - [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) -  (3 months ago)
 - [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (3 months ago)
 - [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) -  (3 months ago)
-- [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (3 months ago)
+- [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (4 months ago)
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (4 months ago)
 - [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) -  (4 months ago)
 - [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (5 months ago)
@@ -28,7 +28,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Feat add basic models [WIP]](https://github.com/ImMPrada/coffeeroasters-api/pull/1) on [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) (1 week ago)
 
 #### 📓 Gists I wrote
 
