@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) -  (2 weeks ago)
-- [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) -  (3 weeks ago)
-- [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) -  (3 months ago)
+- [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) -  (4 weeks ago)
+- [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) -  (4 months ago)
 - [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (4 months ago)
 - [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) -  (4 months ago)
 - [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (4 months ago)
