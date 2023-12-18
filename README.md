@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [solución immprada](https://github.com/platzi/laboratorio-mydayapp-js/pull/48) on [platzi/laboratorio-mydayapp-js](https://github.com/platzi/laboratorio-mydayapp-js) (today)
 - [Solucion immprada](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/2) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (today)
 - [Iteracion 1](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/1) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (today)
 - [Iteracion 1](https://github.com/platzi/laboratorio-mydayapp-js/pull/47) on [platzi/laboratorio-mydayapp-js](https://github.com/platzi/laboratorio-mydayapp-js) (today)
