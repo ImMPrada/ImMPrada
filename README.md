@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) -  (4 weeks ago)
+- [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) -  (1 month ago)
 - [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) -  (1 month ago)
 - [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) -  (4 months ago)
 - [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (4 months ago)
@@ -28,10 +28,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [solución immprada](https://github.com/platzi/laboratorio-mydayapp-js/pull/48) on [platzi/laboratorio-mydayapp-js](https://github.com/platzi/laboratorio-mydayapp-js) (today)
-- [Solucion immprada](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/2) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (today)
-- [Iteracion 1](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/1) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (today)
-- [Iteracion 1](https://github.com/platzi/laboratorio-mydayapp-js/pull/47) on [platzi/laboratorio-mydayapp-js](https://github.com/platzi/laboratorio-mydayapp-js) (today)
+- [solución immprada](https://github.com/platzi/laboratorio-mydayapp-js/pull/48) on [platzi/laboratorio-mydayapp-js](https://github.com/platzi/laboratorio-mydayapp-js) (1 day ago)
+- [Solucion immprada](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/2) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (1 day ago)
+- [Iteracion 1](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/1) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (1 day ago)
+- [Iteracion 1](https://github.com/platzi/laboratorio-mydayapp-js/pull/47) on [platzi/laboratorio-mydayapp-js](https://github.com/platzi/laboratorio-mydayapp-js) (1 day ago)
 
 #### 📓 Gists I wrote
 
