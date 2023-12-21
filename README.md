@@ -9,8 +9,8 @@
 - [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (4 months ago)
 - [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) -  (4 months ago)
 - [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (4 months ago)
-- [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) -  (5 months ago)
 - [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (5 months ago)
+- [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) -  (5 months ago)
 - [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (5 months ago)
 
 #### 🌱 My latest projects
@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [reorganize letters](https://github.com/ImMPrada/short-ds-challenges/pull/1) on [ImMPrada/short-ds-challenges](https://github.com/ImMPrada/short-ds-challenges) (today)
 - [solución immprada](https://github.com/platzi/laboratorio-mydayapp-js/pull/48) on [platzi/laboratorio-mydayapp-js](https://github.com/platzi/laboratorio-mydayapp-js) (3 days ago)
 - [Solucion immprada](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/2) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (3 days ago)
 - [Iteracion 1](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/1) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (3 days ago)
