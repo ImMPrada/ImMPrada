@@ -15,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [ImMPrada/short-ds-challenges](https://github.com/ImMPrada/short-ds-challenges) - 
 - [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) - 
 - [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) - 
 - [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) - 
@@ -24,7 +25,6 @@
 - [ImMPrada/practicing_omniauth](https://github.com/ImMPrada/practicing_omniauth) - 
 - [ImMPrada/try_prisma](https://github.com/ImMPrada/try_prisma) - 
 - [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) - 
-- [ImMPrada/private-events](https://github.com/ImMPrada/private-events) - 
 
 #### 🔨 My recent Pull Requests
 
