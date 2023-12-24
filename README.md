@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/short-ds-challenges](https://github.com/ImMPrada/short-ds-challenges) -  (2 days ago)
+- [ImMPrada/short-ds-challenges](https://github.com/ImMPrada/short-ds-challenges) -  (3 days ago)
 - [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) -  (1 month ago)
 - [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) -  (1 month ago)
 - [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) -  (4 months ago)
@@ -28,12 +28,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Solucion immprada](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/3) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (2 days ago)
-- [reorganize letters](https://github.com/ImMPrada/short-ds-challenges/pull/1) on [ImMPrada/short-ds-challenges](https://github.com/ImMPrada/short-ds-challenges) (2 days ago)
-- [solución immprada](https://github.com/platzi/laboratorio-mydayapp-js/pull/48) on [platzi/laboratorio-mydayapp-js](https://github.com/platzi/laboratorio-mydayapp-js) (5 days ago)
-- [Solucion immprada](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/2) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (5 days ago)
-- [Iteracion 1](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/1) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (5 days ago)
-- [Iteracion 1](https://github.com/platzi/laboratorio-mydayapp-js/pull/47) on [platzi/laboratorio-mydayapp-js](https://github.com/platzi/laboratorio-mydayapp-js) (5 days ago)
+- [Solucion immprada](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/3) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (3 days ago)
+- [reorganize letters](https://github.com/ImMPrada/short-ds-challenges/pull/1) on [ImMPrada/short-ds-challenges](https://github.com/ImMPrada/short-ds-challenges) (3 days ago)
+- [solución immprada](https://github.com/platzi/laboratorio-mydayapp-js/pull/48) on [platzi/laboratorio-mydayapp-js](https://github.com/platzi/laboratorio-mydayapp-js) (6 days ago)
+- [Solucion immprada](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/2) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (6 days ago)
+- [Iteracion 1](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/1) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (6 days ago)
+- [Iteracion 1](https://github.com/platzi/laboratorio-mydayapp-js/pull/47) on [platzi/laboratorio-mydayapp-js](https://github.com/platzi/laboratorio-mydayapp-js) (6 days ago)
 
 #### 📓 Gists I wrote
 
