@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/short-ds-challenges](https://github.com/ImMPrada/short-ds-challenges) -  (6 days ago)
+- [ImMPrada/short-ds-challenges](https://github.com/ImMPrada/short-ds-challenges) -  (1 week ago)
 - [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) -  (1 month ago)
 - [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) -  (1 month ago)
 - [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) -  (4 months ago)
@@ -28,8 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Solucion immprada](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/3) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (6 days ago)
-- [reorganize letters](https://github.com/ImMPrada/short-ds-challenges/pull/1) on [ImMPrada/short-ds-challenges](https://github.com/ImMPrada/short-ds-challenges) (6 days ago)
+- [Solucion immprada](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/3) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (1 week ago)
+- [reorganize letters](https://github.com/ImMPrada/short-ds-challenges/pull/1) on [ImMPrada/short-ds-challenges](https://github.com/ImMPrada/short-ds-challenges) (1 week ago)
 - [solución immprada](https://github.com/platzi/laboratorio-mydayapp-js/pull/48) on [platzi/laboratorio-mydayapp-js](https://github.com/platzi/laboratorio-mydayapp-js) (1 week ago)
 - [Solucion immprada](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/2) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (1 week ago)
 - [Iteracion 1](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/1) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (1 week ago)
