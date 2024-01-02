@@ -33,7 +33,6 @@
 - [solución immprada](https://github.com/platzi/laboratorio-mydayapp-js/pull/48) on [platzi/laboratorio-mydayapp-js](https://github.com/platzi/laboratorio-mydayapp-js) (2 weeks ago)
 - [Solucion immprada](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/2) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (2 weeks ago)
 - [Iteracion 1](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/1) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (2 weeks ago)
-- [Iteracion 1](https://github.com/platzi/laboratorio-mydayapp-js/pull/47) on [platzi/laboratorio-mydayapp-js](https://github.com/platzi/laboratorio-mydayapp-js) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
