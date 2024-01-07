@@ -29,7 +29,6 @@
 #### 🔨 My recent Pull Requests
 
 - [Solucion immprada](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/3) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (2 weeks ago)
-- [reorganize letters](https://github.com/ImMPrada/short-ds-challenges/pull/1) on [ImMPrada/short-ds-challenges](https://github.com/ImMPrada/short-ds-challenges) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
