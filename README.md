@@ -28,7 +28,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Solucion immprada](https://github.com/ImMPrada/laboratorio-mydayapp-js/pull/3) on [ImMPrada/laboratorio-mydayapp-js](https://github.com/ImMPrada/laboratorio-mydayapp-js) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
