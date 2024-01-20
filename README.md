@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/short-ds-challenges](https://github.com/ImMPrada/short-ds-challenges) -  (4 weeks ago)
+- [ImMPrada/short-ds-challenges](https://github.com/ImMPrada/short-ds-challenges) -  (1 month ago)
 - [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) -  (2 months ago)
 - [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) -  (2 months ago)
 - [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) -  (5 months ago)
