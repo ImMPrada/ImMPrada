@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [bro-garden/leetcode-rampage](https://github.com/bro-garden/leetcode-rampage) -  (1 day ago)
 - [ImMPrada/short-ds-challenges](https://github.com/ImMPrada/short-ds-challenges) -  (1 month ago)
 - [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) -  (2 months ago)
 - [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) -  (2 months ago)
@@ -9,9 +10,8 @@
 - [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (5 months ago)
 - [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) -  (5 months ago)
 - [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (6 months ago)
-- [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) -  (6 months ago)
-- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (6 months ago)
-- [ImMPrada/TOP-flights-booking](https://github.com/ImMPrada/TOP-flights-booking) -  (7 months ago)
+- [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) -  (7 months ago)
+- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Day 2 - Merge Sorted Array](https://github.com/bro-garden/leetcode-rampage/pull/3) on [bro-garden/leetcode-rampage](https://github.com/bro-garden/leetcode-rampage) (1 day ago)
 
 #### 📓 Gists I wrote
 
