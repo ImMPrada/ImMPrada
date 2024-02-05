@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Day 3 - Longest Common Prefix](https://github.com/bro-garden/leetcode-rampage/pull/4) on [bro-garden/leetcode-rampage](https://github.com/bro-garden/leetcode-rampage) (today)
+- [Day 3 - Longest Common Prefix](https://github.com/bro-garden/leetcode-rampage/pull/4) on [bro-garden/leetcode-rampage](https://github.com/bro-garden/leetcode-rampage) (1 day ago)
 - [Day 2 - Merge Sorted Array](https://github.com/bro-garden/leetcode-rampage/pull/3) on [bro-garden/leetcode-rampage](https://github.com/bro-garden/leetcode-rampage) (1 week ago)
 
 #### 📓 Gists I wrote
