@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Day 3 - Longest Common Prefix](https://github.com/bro-garden/leetcode-rampage/pull/4) on [bro-garden/leetcode-rampage](https://github.com/bro-garden/leetcode-rampage) (1 week ago)
+- [CU-86873z3fk Add models](https://github.com/ImMPrada/short-url/pull/1) on [ImMPrada/short-url](https://github.com/ImMPrada/short-url) (today)
 
 #### 📓 Gists I wrote
 
