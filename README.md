@@ -11,7 +11,7 @@
 - [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (6 months ago)
 - [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) -  (6 months ago)
 - [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (6 months ago)
-- [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) -  (7 months ago)
+- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (7 months ago)
 
 #### 🌱 My latest projects
 
