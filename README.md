@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/short-url](https://github.com/ImMPrada/short-url) -  (today)
+- [ImMPrada/short-url](https://github.com/ImMPrada/short-url) -  (1 day ago)
 - [bro-garden/leetcode-rampage](https://github.com/bro-garden/leetcode-rampage) -  (2 weeks ago)
 - [ImMPrada/short-ds-challenges](https://github.com/ImMPrada/short-ds-challenges) -  (1 month ago)
 - [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) -  (2 months ago)
@@ -11,7 +11,7 @@
 - [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (6 months ago)
 - [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) -  (6 months ago)
 - [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (6 months ago)
-- [ImMPrada/multi-step-form-FM](https://github.com/ImMPrada/multi-step-form-FM) - A challenge from Frontend Mentor, www.frontendmentor.io (7 months ago)
+- [ImMPrada/frontendmentor-games-api](https://github.com/ImMPrada/frontendmentor-games-api) -  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [CU-86873z3fk Add models](https://github.com/ImMPrada/short-url/pull/1) on [ImMPrada/short-url](https://github.com/ImMPrada/short-url) (today)
+- [CU-86873z3fk Add models](https://github.com/ImMPrada/short-url/pull/1) on [ImMPrada/short-url](https://github.com/ImMPrada/short-url) (1 day ago)
 
 #### 📓 Gists I wrote
 
