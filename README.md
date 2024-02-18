@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/short-url](https://github.com/ImMPrada/short-url) -  (2 days ago)
-- [bro-garden/leetcode-rampage](https://github.com/bro-garden/leetcode-rampage) -  (2 weeks ago)
+- [ImMPrada/short-url](https://github.com/ImMPrada/short-url) -  (3 days ago)
+- [bro-garden/leetcode-rampage](https://github.com/bro-garden/leetcode-rampage) -  (3 weeks ago)
 - [ImMPrada/short-ds-challenges](https://github.com/ImMPrada/short-ds-challenges) -  (1 month ago)
 - [ImMPrada/coffeeroasters-api](https://github.com/ImMPrada/coffeeroasters-api) -  (3 months ago)
 - [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) -  (3 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [CU-86873z3fk Add models](https://github.com/ImMPrada/short-url/pull/1) on [ImMPrada/short-url](https://github.com/ImMPrada/short-url) (2 days ago)
+- [CU-86873z3fk Add models](https://github.com/ImMPrada/short-url/pull/1) on [ImMPrada/short-url](https://github.com/ImMPrada/short-url) (3 days ago)
 
 #### 📓 Gists I wrote
 
