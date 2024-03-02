@@ -10,7 +10,7 @@
 - [ImMPrada/coffeeroasters-app](https://github.com/ImMPrada/coffeeroasters-app) -  (3 months ago)
 - [andreslopezlu/todo_front](https://github.com/andreslopezlu/todo_front) -  (6 months ago)
 - [ImMPrada/chat-in-rails](https://github.com/ImMPrada/chat-in-rails) -  (6 months ago)
-- [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) -  (6 months ago)
+- [andreslopezlu/todo_api](https://github.com/andreslopezlu/todo_api) -  (7 months ago)
 - [bro-garden/structuraid-core](https://github.com/bro-garden/structuraid-core) -  (7 months ago)
 
 #### 🌱 My latest projects
