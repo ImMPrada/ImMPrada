@@ -28,7 +28,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [CU-86873z3fk Add models](https://github.com/ImMPrada/short-url/pull/1) on [ImMPrada/short-url](https://github.com/ImMPrada/short-url) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
