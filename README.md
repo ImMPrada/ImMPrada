@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/tall/677ec4e170129741a856785f?variant=dark)](https://roadmap.sh)
+
 #### 👷 Check out what I'm currently working on
 
 - [ImMPrada/short-url-front](https://github.com/ImMPrada/short-url-front) -  (3 weeks ago)
