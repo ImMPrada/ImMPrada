@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/677ec4e170129741a856785f?variant=dark" alt="roadmap.sh"/></a>
-
+[![roadmap.sh](https://roadmap.sh/card/tall/677ec4e170129741a856785f?variant=dark)](https://roadmap.sh)
 
 #### 👷 Check out what I'm currently working on
 
