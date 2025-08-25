@@ -18,6 +18,8 @@ Ruby · Rails · PostgreSQL · MySQL 8 · Redis · RSpec · React/React Query ·
 - [chat-in-rails](https://github.com/ImMPrada/chat-in-rails) — Chat app in Rails.  
 - [structuraid-core](https://github.com/bro-garden/structuraid-core) — Structural design domain library.  
 
+[![roadmap.sh](https://roadmap.sh/card/tall/677ec4e170129741a856785f?variant=dark)](https://roadmap.sh)
+
 ---
 
 #### 👷 Check out what I'm currently working on
