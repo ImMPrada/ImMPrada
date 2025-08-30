@@ -24,7 +24,7 @@ Ruby · Rails · PostgreSQL · MySQL 8 · Redis · RSpec · React/React Query ·
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/scrapping](https://github.com/ImMPrada/scrapping) -  (1 month ago)
+- [ImMPrada/scrapping](https://github.com/ImMPrada/scrapping) -  (2 months ago)
 - [andreslopezlu/santtino_front](https://github.com/andreslopezlu/santtino_front) - This is the repository for the front-end development of Santtino&#39;s virtual store. (3 months ago)
 - [ImMPrada/fletx-challenge](https://github.com/ImMPrada/fletx-challenge) -  (4 months ago)
 - [ImMPrada/acc](https://github.com/ImMPrada/acc) - A Ruby client for Autodesk Construction Cloud API (4 months ago)
