@@ -31,7 +31,7 @@ Ruby · Rails · PostgreSQL · MySQL 8 · Redis · RSpec · React/React Query ·
 - [ImMPrada/csv_challenge](https://github.com/ImMPrada/csv_challenge) -  (5 months ago)
 - [ImMPrada/recipes](https://github.com/ImMPrada/recipes) -  (5 months ago)
 - [ImMPrada/frontendmentor-quiz-app](https://github.com/ImMPrada/frontendmentor-quiz-app) -  (5 months ago)
-- [ImMPrada/products-with-cart-challenge](https://github.com/ImMPrada/products-with-cart-challenge) -  (5 months ago)
+- [ImMPrada/products-with-cart-challenge](https://github.com/ImMPrada/products-with-cart-challenge) -  (6 months ago)
 - [ImMPrada/codecrafters-dns-server-ruby](https://github.com/ImMPrada/codecrafters-dns-server-ruby) -  (6 months ago)
 - [ImMPrada/codecrafters-redis-ruby](https://github.com/ImMPrada/codecrafters-redis-ruby) -  (6 months ago)
 
