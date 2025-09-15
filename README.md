@@ -33,7 +33,7 @@ Ruby · Rails · PostgreSQL · MySQL 8 · Redis · RSpec · React/React Query ·
 - [ImMPrada/frontendmentor-quiz-app](https://github.com/ImMPrada/frontendmentor-quiz-app) -  (6 months ago)
 - [ImMPrada/products-with-cart-challenge](https://github.com/ImMPrada/products-with-cart-challenge) -  (6 months ago)
 - [ImMPrada/codecrafters-dns-server-ruby](https://github.com/ImMPrada/codecrafters-dns-server-ruby) -  (6 months ago)
-- [ImMPrada/codecrafters-redis-ruby](https://github.com/ImMPrada/codecrafters-redis-ruby) -  (6 months ago)
+- [ImMPrada/codecrafters-redis-ruby](https://github.com/ImMPrada/codecrafters-redis-ruby) -  (7 months ago)
 
 #### 🌱 My latest projects
 
