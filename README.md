@@ -24,42 +24,35 @@ Ruby · Rails · PostgreSQL · MySQL 8 · Redis · RSpec · React/React Query ·
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/scrapping](https://github.com/ImMPrada/scrapping) -  (2 months ago)
-- [andreslopezlu/santtino_front](https://github.com/andreslopezlu/santtino_front) - This is the repository for the front-end development of Santtino&#39;s virtual store. (3 months ago)
-- [ImMPrada/fletx-challenge](https://github.com/ImMPrada/fletx-challenge) -  (5 months ago)
-- [ImMPrada/acc](https://github.com/ImMPrada/acc) - A Ruby client for Autodesk Construction Cloud API (5 months ago)
-- [ImMPrada/csv_challenge](https://github.com/ImMPrada/csv_challenge) -  (5 months ago)
-- [ImMPrada/recipes](https://github.com/ImMPrada/recipes) -  (6 months ago)
-- [ImMPrada/frontendmentor-quiz-app](https://github.com/ImMPrada/frontendmentor-quiz-app) -  (6 months ago)
-- [ImMPrada/products-with-cart-challenge](https://github.com/ImMPrada/products-with-cart-challenge) -  (6 months ago)
-- [ImMPrada/codecrafters-dns-server-ruby](https://github.com/ImMPrada/codecrafters-dns-server-ruby) -  (7 months ago)
-- [ImMPrada/codecrafters-redis-ruby](https://github.com/ImMPrada/codecrafters-redis-ruby) -  (7 months ago)
+- [ImMPrada/python_roadmap](https://github.com/ImMPrada/python_roadmap) -  (4 months ago)
+- [bro-garden/privy](https://github.com/bro-garden/privy) - web app for temporary messages (7 months ago)
+- [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) -  (9 months ago)
 
 #### 🌱 My latest projects
 
-- [ImMPrada/scrapping](https://github.com/ImMPrada/scrapping) - 
-- [ImMPrada/fletx-challenge](https://github.com/ImMPrada/fletx-challenge) - 
+- [ImMPrada/python_roadmap](https://github.com/ImMPrada/python_roadmap) - 
+- [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) - 
 - [ImMPrada/csv_challenge](https://github.com/ImMPrada/csv_challenge) - 
 - [ImMPrada/recipes](https://github.com/ImMPrada/recipes) - 
 - [ImMPrada/frontendmentor-quiz-app](https://github.com/ImMPrada/frontendmentor-quiz-app) - 
 - [ImMPrada/products-with-cart-challenge](https://github.com/ImMPrada/products-with-cart-challenge) - 
-- [ImMPrada/acc](https://github.com/ImMPrada/acc) - A Ruby client for Autodesk Construction Cloud API
 - [ImMPrada/codecrafters-dns-server-ruby](https://github.com/ImMPrada/codecrafters-dns-server-ruby) - 
 - [ImMPrada/codecrafters-redis-ruby](https://github.com/ImMPrada/codecrafters-redis-ruby) - 
 - [ImMPrada/caching-proxy](https://github.com/ImMPrada/caching-proxy) - 
+- [ImMPrada/osnews](https://github.com/ImMPrada/osnews) - 
 
 #### 🔨 My recent Pull Requests
 
-- [fix edit user table](https://github.com/ImMPrada/fletx-challenge/pull/25) on [ImMPrada/fletx-challenge](https://github.com/ImMPrada/fletx-challenge) (5 months ago)
-- [Back/resources d](https://github.com/ImMPrada/fletx-challenge/pull/24) on [ImMPrada/fletx-challenge](https://github.com/ImMPrada/fletx-challenge) (5 months ago)
-- [Front/resources d](https://github.com/ImMPrada/fletx-challenge/pull/23) on [ImMPrada/fletx-challenge](https://github.com/ImMPrada/fletx-challenge) (5 months ago)
-- [Back/resources d](https://github.com/ImMPrada/fletx-challenge/pull/22) on [ImMPrada/fletx-challenge](https://github.com/ImMPrada/fletx-challenge) (5 months ago)
-- [Front/products cru](https://github.com/ImMPrada/fletx-challenge/pull/21) on [ImMPrada/fletx-challenge](https://github.com/ImMPrada/fletx-challenge) (5 months ago)
-- [Back/products crud](https://github.com/ImMPrada/fletx-challenge/pull/20) on [ImMPrada/fletx-challenge](https://github.com/ImMPrada/fletx-challenge) (5 months ago)
-- [Update user](https://github.com/ImMPrada/fletx-challenge/pull/19) on [ImMPrada/fletx-challenge](https://github.com/ImMPrada/fletx-challenge) (5 months ago)
-- [Create user](https://github.com/ImMPrada/fletx-challenge/pull/18) on [ImMPrada/fletx-challenge](https://github.com/ImMPrada/fletx-challenge) (5 months ago)
-- [List users](https://github.com/ImMPrada/fletx-challenge/pull/17) on [ImMPrada/fletx-challenge](https://github.com/ImMPrada/fletx-challenge) (5 months ago)
-- [Add more user info](https://github.com/ImMPrada/fletx-challenge/pull/16) on [ImMPrada/fletx-challenge](https://github.com/ImMPrada/fletx-challenge) (5 months ago)
+- [Phase 1: AI-Powered Entity Extraction](https://github.com/ImMPrada/facts-checks/pull/54) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (9 months ago)
+- [Add other tables](https://github.com/ImMPrada/facts-checks/pull/53) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (9 months ago)
+- [Revert &#34;Add other tables&#34;](https://github.com/ImMPrada/facts-checks/pull/52) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (9 months ago)
+- [Add other tables](https://github.com/ImMPrada/facts-checks/pull/51) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (9 months ago)
+- [Update CLAUDE.md](https://github.com/ImMPrada/facts-checks/pull/38) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (11 months ago)
+- [Setup delayed jobs](https://github.com/ImMPrada/facts-checks/pull/37) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (11 months ago)
+- [Add date value to publication dates](https://github.com/ImMPrada/facts-checks/pull/36) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (11 months ago)
+- [Scrap each fact](https://github.com/ImMPrada/facts-checks/pull/35) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (11 months ago)
+- [Scrape for all facts in colombiacheck](https://github.com/ImMPrada/facts-checks/pull/34) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (11 months ago)
+- [Setup rspec](https://github.com/ImMPrada/facts-checks/pull/33) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (11 months ago)
 
 #### 📓 Gists I wrote
 
