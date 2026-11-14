@@ -26,7 +26,7 @@ Ruby · Rails · PostgreSQL · MySQL 8 · Redis · RSpec · React/React Query ·
 
 - [ImMPrada/python_roadmap](https://github.com/ImMPrada/python_roadmap) -  (4 months ago)
 - [bro-garden/privy](https://github.com/bro-garden/privy) - web app for temporary messages (7 months ago)
-- [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) -  (9 months ago)
+- [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) -  (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -43,10 +43,10 @@ Ruby · Rails · PostgreSQL · MySQL 8 · Redis · RSpec · React/React Query ·
 
 #### 🔨 My recent Pull Requests
 
-- [Phase 1: AI-Powered Entity Extraction](https://github.com/ImMPrada/facts-checks/pull/54) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (9 months ago)
-- [Add other tables](https://github.com/ImMPrada/facts-checks/pull/53) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (9 months ago)
-- [Revert &#34;Add other tables&#34;](https://github.com/ImMPrada/facts-checks/pull/52) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (9 months ago)
-- [Add other tables](https://github.com/ImMPrada/facts-checks/pull/51) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (9 months ago)
+- [Phase 1: AI-Powered Entity Extraction](https://github.com/ImMPrada/facts-checks/pull/54) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (10 months ago)
+- [Add other tables](https://github.com/ImMPrada/facts-checks/pull/53) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (10 months ago)
+- [Revert &#34;Add other tables&#34;](https://github.com/ImMPrada/facts-checks/pull/52) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (10 months ago)
+- [Add other tables](https://github.com/ImMPrada/facts-checks/pull/51) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (10 months ago)
 - [Update CLAUDE.md](https://github.com/ImMPrada/facts-checks/pull/38) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (11 months ago)
 - [Setup delayed jobs](https://github.com/ImMPrada/facts-checks/pull/37) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (11 months ago)
 - [Add date value to publication dates](https://github.com/ImMPrada/facts-checks/pull/36) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (11 months ago)
