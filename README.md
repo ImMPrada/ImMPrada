@@ -50,9 +50,9 @@ Ruby · Rails · PostgreSQL · MySQL 8 · Redis · RSpec · React/React Query ·
 - [Update CLAUDE.md](https://github.com/ImMPrada/facts-checks/pull/38) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (11 months ago)
 - [Setup delayed jobs](https://github.com/ImMPrada/facts-checks/pull/37) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (11 months ago)
 - [Add date value to publication dates](https://github.com/ImMPrada/facts-checks/pull/36) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (11 months ago)
-- [Scrap each fact](https://github.com/ImMPrada/facts-checks/pull/35) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (11 months ago)
-- [Scrape for all facts in colombiacheck](https://github.com/ImMPrada/facts-checks/pull/34) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (11 months ago)
-- [Setup rspec](https://github.com/ImMPrada/facts-checks/pull/33) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (11 months ago)
+- [Scrap each fact](https://github.com/ImMPrada/facts-checks/pull/35) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (1 year ago)
+- [Scrape for all facts in colombiacheck](https://github.com/ImMPrada/facts-checks/pull/34) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (1 year ago)
+- [Setup rspec](https://github.com/ImMPrada/facts-checks/pull/33) on [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) (1 year ago)
 
 #### 📓 Gists I wrote
 
