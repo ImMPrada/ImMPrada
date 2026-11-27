@@ -24,7 +24,7 @@ Ruby · Rails · PostgreSQL · MySQL 8 · Redis · RSpec · React/React Query ·
 
 #### 👷 Check out what I'm currently working on
 
-- [ImMPrada/python_roadmap](https://github.com/ImMPrada/python_roadmap) -  (4 months ago)
+- [ImMPrada/python_roadmap](https://github.com/ImMPrada/python_roadmap) -  (5 months ago)
 - [bro-garden/privy](https://github.com/bro-garden/privy) - web app for temporary messages (7 months ago)
 - [ImMPrada/facts-checks](https://github.com/ImMPrada/facts-checks) -  (10 months ago)
 
